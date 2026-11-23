@@ -1,0 +1,920 @@
+[
+  {
+    "id": "person-albert-einstein",
+    "category": "person",
+    "answer": {
+      "en": "Albert Einstein",
+      "pt": "Albert Einstein"
+    },
+    "aliases": {
+      "en": [
+        "einstein"
+      ],
+      "pt": [
+        "einstein"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I was born in Ulm, Germany, in 1879.",
+        "I won the Nobel Prize in Physics in 1921.",
+        "As a young man, I worked in a patent office in Bern, Switzerland.",
+        "I am the author of the most famous equation in the world: E = mc².",
+        "I loved playing the violin.",
+        "I was offered the presidency of Israel, but I declined.",
+        "In one of my most famous photos, I am sticking my tongue out.",
+        "I developed the theory of relativity.",
+        "The year 1905 is known as my \"miracle year\".",
+        "I moved to the United States in 1933.",
+        "I spent my last years in Princeton, New Jersey.",
+        "Time magazine named me \"Person of the Century\" in 1999.",
+        "A chemical element was named in my honor.",
+        "My messy white hair is one of my trademarks.",
+        "My surname has become a synonym for \"genius\".",
+        "My Nobel Prize was awarded for explaining the photoelectric effect.",
+        "A solar eclipse observed in 1919, including from Sobral, Brazil, helped confirm my ideas.",
+        "I was a scientist.",
+        "I predicted that gravity can bend light.",
+        "I died in 1955, at the age of 76."
+      ],
+      "pt": [
+        "Nasci em Ulm, na Alemanha, em 1879.",
+        "Ganhei o Prêmio Nobel de Física em 1921.",
+        "Quando jovem, trabalhei em um escritório de patentes em Berna, na Suíça.",
+        "Sou o autor da equação mais famosa do mundo: E = mc².",
+        "Eu adorava tocar violino.",
+        "Ofereceram-me a presidência de Israel, mas recusei.",
+        "Em uma das minhas fotos mais famosas, estou mostrando a língua.",
+        "Desenvolvi a teoria da relatividade.",
+        "O ano de 1905 é conhecido como o meu \"ano miraculoso\".",
+        "Mudei-me para os Estados Unidos em 1933.",
+        "Passei meus últimos anos em Princeton, Nova Jersey.",
+        "A revista Time me elegeu a \"Pessoa do Século\" em 1999.",
+        "Um elemento químico foi batizado em minha homenagem.",
+        "Meu cabelo branco e despenteado é uma das minhas marcas registradas.",
+        "Meu sobrenome virou sinônimo de \"gênio\".",
+        "Meu Prêmio Nobel foi concedido pela explicação do efeito fotoelétrico.",
+        "Um eclipse solar observado em 1919, inclusive em Sobral, no Ceará, ajudou a confirmar minhas ideias.",
+        "Fui um cientista.",
+        "Previ que a gravidade pode curvar a luz.",
+        "Morri em 1955, aos 76 anos."
+      ]
+    }
+  },
+  {
+    "id": "person-leonardo-da-vinci",
+    "category": "person",
+    "answer": {
+      "en": "Leonardo da Vinci",
+      "pt": "Leonardo da Vinci"
+    },
+    "aliases": {
+      "en": [
+        "leonardo",
+        "da vinci",
+        "leonardo di ser piero da vinci"
+      ],
+      "pt": [
+        "leonardo",
+        "da vinci"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I was born in Tuscany, Italy, in 1452.",
+        "I painted the most famous portrait in the world.",
+        "I used to write my notes backwards, in mirror writing.",
+        "I was left-handed.",
+        "I designed flying machines centuries before the airplane existed.",
+        "I painted \"The Last Supper\" on a wall in Milan.",
+        "I drew the \"Vitruvian Man\".",
+        "I was an apprentice in Verrocchio's workshop in Florence.",
+        "I am considered the great example of the \"Renaissance man\".",
+        "I studied human anatomy and made detailed drawings of the body.",
+        "I spent my last years in France, as a guest of King Francis I.",
+        "My most famous work hangs in the Louvre Museum.",
+        "A Ninja Turtle was named after me.",
+        "I was a painter, engineer, inventor and scientist.",
+        "I left thousands of notebook pages full of drawings and ideas.",
+        "I worked for many years for the Duke of Milan, Ludovico Sforza.",
+        "My father was a notary.",
+        "The woman in my best-known painting has a mysterious smile.",
+        "I died in 1519.",
+        "One painting attributed to me was sold for about 450 million dollars in 2017."
+      ],
+      "pt": [
+        "Nasci na Toscana, na Itália, em 1452.",
+        "Pintei o retrato mais famoso do mundo.",
+        "Eu costumava escrever minhas anotações ao contrário, de forma espelhada.",
+        "Eu era canhoto.",
+        "Projetei máquinas voadoras séculos antes de o avião existir.",
+        "Pintei \"A Última Ceia\" em uma parede em Milão.",
+        "Desenhei o \"Homem Vitruviano\".",
+        "Fui aprendiz no ateliê de Verrocchio, em Florença.",
+        "Sou considerado o grande exemplo do \"homem do Renascimento\".",
+        "Estudei a anatomia humana e fiz desenhos detalhados do corpo.",
+        "Passei meus últimos anos na França, como convidado do rei Francisco I.",
+        "Minha obra mais famosa está exposta no Museu do Louvre.",
+        "Uma das Tartarugas Ninja recebeu o meu nome.",
+        "Fui pintor, engenheiro, inventor e cientista.",
+        "Deixei milhares de páginas de cadernos cheias de desenhos e ideias.",
+        "Trabalhei por muitos anos para o duque de Milão, Ludovico Sforza.",
+        "Meu pai era tabelião.",
+        "A mulher do meu quadro mais conhecido tem um sorriso misterioso.",
+        "Morri em 1519.",
+        "Um quadro atribuído a mim foi vendido por cerca de 450 milhões de dólares em 2017."
+      ]
+    }
+  },
+  {
+    "id": "person-pele",
+    "category": "person",
+    "answer": {
+      "en": "Pelé",
+      "pt": "Pelé"
+    },
+    "aliases": {
+      "en": [
+        "pele",
+        "edson arantes do nascimento",
+        "king pele"
+      ],
+      "pt": [
+        "pele",
+        "edson arantes do nascimento",
+        "rei pelé",
+        "rei pele"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I was born in Três Corações, Minas Gerais, in 1940.",
+        "My first name was a tribute to the inventor Thomas Edison.",
+        "I won three FIFA World Cups.",
+        "I played most of my career for Santos.",
+        "I ended my career at the New York Cosmos.",
+        "I wore the number 10 shirt.",
+        "I am known as \"the King of Football\".",
+        "I scored my thousandth goal in 1969, from a penalty kick at the Maracanã.",
+        "I was Brazil's Minister of Sport in the 1990s.",
+        "I was only 17 years old when I became a world champion for the first time.",
+        "I acted in the film \"Escape to Victory\", alongside Sylvester Stallone.",
+        "I scored more than a thousand goals in my career.",
+        "My father was also a footballer, known as Dondinho.",
+        "I grew up in the city of Bauru, in the state of São Paulo.",
+        "As a boy, I shined shoes to earn some money.",
+        "I am known worldwide by a nickname with only four letters.",
+        "I was an athlete.",
+        "I was a world champion in 1958, 1962 and 1970.",
+        "I died in December 2022, at the age of 82.",
+        "I am Brazilian."
+      ],
+      "pt": [
+        "Nasci em Três Corações, Minas Gerais, em 1940.",
+        "Meu primeiro nome foi uma homenagem ao inventor Thomas Edison.",
+        "Ganhei três Copas do Mundo.",
+        "Joguei a maior parte da minha carreira no Santos.",
+        "Encerrei minha carreira no New York Cosmos.",
+        "Eu vestia a camisa 10.",
+        "Sou conhecido como \"o Rei do Futebol\".",
+        "Marquei meu milésimo gol em 1969, de pênalti, no Maracanã.",
+        "Fui ministro do Esporte do Brasil nos anos 1990.",
+        "Eu tinha apenas 17 anos quando fui campeão mundial pela primeira vez.",
+        "Atuei no filme \"Fuga para a Vitória\", ao lado de Sylvester Stallone.",
+        "Marquei mais de mil gols na carreira.",
+        "Meu pai também foi jogador de futebol, conhecido como Dondinho.",
+        "Cresci na cidade de Bauru, no interior de São Paulo.",
+        "Quando menino, engraxei sapatos para ganhar algum dinheiro.",
+        "Sou conhecido no mundo inteiro por um apelido de apenas quatro letras.",
+        "Fui um atleta.",
+        "Fui campeão mundial em 1958, 1962 e 1970.",
+        "Morri em dezembro de 2022, aos 82 anos.",
+        "Sou brasileiro."
+      ]
+    }
+  },
+  {
+    "id": "person-cleopatra",
+    "category": "person",
+    "answer": {
+      "en": "Cleopatra",
+      "pt": "Cleópatra"
+    },
+    "aliases": {
+      "en": [
+        "cleopatra vii",
+        "queen cleopatra"
+      ],
+      "pt": [
+        "cleopatra",
+        "cleópatra vii",
+        "rainha cleópatra"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I was born in Alexandria, in 69 BC.",
+        "I was a queen.",
+        "I was the last ruler of the Ptolemaic dynasty.",
+        "My family was of Greek Macedonian origin.",
+        "I had a son with Julius Caesar.",
+        "I had a famous romance with the Roman general Mark Antony.",
+        "Legend says I died from the bite of a snake.",
+        "I spoke several languages.",
+        "Elizabeth Taylor played me in a famous 1963 film.",
+        "My fleet was defeated at the Battle of Actium.",
+        "After my death, my kingdom became a Roman province.",
+        "Shakespeare wrote a tragedy about me and a Roman general.",
+        "I lived closer in time to the Moon landing than to the building of the Great Pyramid.",
+        "I appear in an Asterix adventure, in which my nose is much admired.",
+        "I had twins whose names referred to the Sun and the Moon.",
+        "I came to the throne when I was about 18 years old.",
+        "I ruled Egypt.",
+        "Historians count me as the seventh queen of my dynasty to bear my name.",
+        "Legend says I was smuggled, rolled up, into a palace to meet a Roman leader.",
+        "I died in 30 BC."
+      ],
+      "pt": [
+        "Nasci em Alexandria, em 69 a.C.",
+        "Fui uma rainha.",
+        "Fui a última governante da dinastia ptolomaica.",
+        "Minha família era de origem greco-macedônica.",
+        "Tive um filho com Júlio César.",
+        "Tive um famoso romance com o general romano Marco Antônio.",
+        "Diz a lenda que morri pela picada de uma serpente.",
+        "Eu falava vários idiomas.",
+        "Elizabeth Taylor me interpretou em um famoso filme de 1963.",
+        "Minha frota foi derrotada na Batalha de Áccio.",
+        "Depois da minha morte, meu reino se tornou uma província romana.",
+        "Shakespeare escreveu uma tragédia sobre mim e um general romano.",
+        "Vivi mais perto da chegada do homem à Lua do que da construção da Grande Pirâmide.",
+        "Apareço em uma aventura de Asterix, na qual meu nariz é muito admirado.",
+        "Tive gêmeos cujos nomes faziam referência ao Sol e à Lua.",
+        "Subi ao trono quando tinha cerca de 18 anos.",
+        "Governei o Egito.",
+        "Os historiadores me contam como a sétima rainha da minha dinastia a usar o meu nome.",
+        "Diz a lenda que entrei escondida, enrolada, em um palácio para conhecer um líder romano.",
+        "Morri em 30 a.C."
+      ]
+    }
+  },
+  {
+    "id": "person-william-shakespeare",
+    "category": "person",
+    "answer": {
+      "en": "William Shakespeare",
+      "pt": "William Shakespeare"
+    },
+    "aliases": {
+      "en": [
+        "shakespeare",
+        "the bard"
+      ],
+      "pt": [
+        "shakespeare",
+        "o bardo"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I was born in Stratford-upon-Avon, England, in 1564.",
+        "My wife was named Anne Hathaway.",
+        "My plays were staged at the Globe Theatre in London.",
+        "I wrote the most famous love story of all time.",
+        "I wrote the line \"To be, or not to be, that is the question\".",
+        "I wrote 154 sonnets.",
+        "I wrote nearly forty plays.",
+        "I had three children, two of them twins.",
+        "I lived during the reign of Queen Elizabeth I.",
+        "I wrote comedies, tragedies and historical plays.",
+        "I created characters such as Macbeth, Othello and King Lear.",
+        "A collection of my plays, the \"First Folio\", was published after my death.",
+        "My father was a glove maker.",
+        "I got married at the age of 18.",
+        "I was also an actor.",
+        "I am considered the greatest writer in the English language.",
+        "I died in 1616.",
+        "One of my plays is about a prince of Denmark.",
+        "Many words and expressions in English first appeared in my works.",
+        "Two of my characters are young lovers from rival families in Verona."
+      ],
+      "pt": [
+        "Nasci em Stratford-upon-Avon, na Inglaterra, em 1564.",
+        "Minha esposa se chamava Anne Hathaway.",
+        "Minhas peças eram encenadas no Globe Theatre, em Londres.",
+        "Escrevi a história de amor mais famosa de todos os tempos.",
+        "Escrevi a frase \"Ser ou não ser, eis a questão\".",
+        "Escrevi 154 sonetos.",
+        "Escrevi quase quarenta peças.",
+        "Tive três filhos, dois deles gêmeos.",
+        "Vivi durante o reinado da rainha Elizabeth I.",
+        "Escrevi comédias, tragédias e peças históricas.",
+        "Criei personagens como Macbeth, Otelo e Rei Lear.",
+        "Uma coletânea das minhas peças, o \"First Folio\", foi publicada após a minha morte.",
+        "Meu pai era fabricante de luvas.",
+        "Casei-me aos 18 anos.",
+        "Também fui ator.",
+        "Sou considerado o maior escritor da língua inglesa.",
+        "Morri em 1616.",
+        "Uma das minhas peças é sobre um príncipe da Dinamarca.",
+        "Muitas palavras e expressões do inglês apareceram pela primeira vez nas minhas obras.",
+        "Dois dos meus personagens são jovens apaixonados de famílias rivais de Verona."
+      ]
+    }
+  },
+  {
+    "id": "person-nelson-mandela",
+    "category": "person",
+    "answer": {
+      "en": "Nelson Mandela",
+      "pt": "Nelson Mandela"
+    },
+    "aliases": {
+      "en": [
+        "mandela",
+        "madiba",
+        "nelson rolihlahla mandela"
+      ],
+      "pt": [
+        "mandela",
+        "madiba"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I was born in South Africa in 1918.",
+        "I spent 27 years in prison.",
+        "I was held for many years on Robben Island.",
+        "I won the Nobel Peace Prize in 1993.",
+        "I was the first Black president of my country.",
+        "I fought against apartheid.",
+        "I trained as a lawyer.",
+        "My birth name, Rolihlahla, was given by my father.",
+        "A school teacher gave me the English first name I became known by.",
+        "In 1995, I presented the Rugby World Cup trophy wearing my national team's jersey.",
+        "Morgan Freeman played me in the film \"Invictus\".",
+        "The United Nations celebrates an international day in my honor on July 18.",
+        "My autobiography is called \"Long Walk to Freedom\".",
+        "I was released from prison in 1990.",
+        "I belonged to the Xhosa people.",
+        "I practiced boxing when I was young.",
+        "I was famous for wearing colorful patterned shirts.",
+        "I was elected president in 1994, when I was 75 years old.",
+        "I died in 2013, at the age of 95.",
+        "I was a political leader."
+      ],
+      "pt": [
+        "Nasci na África do Sul em 1918.",
+        "Passei 27 anos na prisão.",
+        "Fiquei preso por muitos anos na Ilha Robben.",
+        "Ganhei o Prêmio Nobel da Paz em 1993.",
+        "Fui o primeiro presidente negro do meu país.",
+        "Lutei contra o apartheid.",
+        "Eu me formei advogado.",
+        "Meu nome de nascimento, Rolihlahla, foi dado pelo meu pai.",
+        "Uma professora da escola me deu o nome inglês pelo qual fiquei conhecido.",
+        "Em 1995, entreguei a taça da Copa do Mundo de Rúgbi vestindo a camisa da seleção do meu país.",
+        "Morgan Freeman me interpretou no filme \"Invictus\".",
+        "A ONU celebra um dia internacional em minha homenagem em 18 de julho.",
+        "Minha autobiografia se chama \"Longa Caminhada até a Liberdade\".",
+        "Fui libertado da prisão em 1990.",
+        "Eu pertencia ao povo xhosa.",
+        "Pratiquei boxe quando era jovem.",
+        "Eu era famoso por usar camisas coloridas e estampadas.",
+        "Fui eleito presidente em 1994, quando tinha 75 anos.",
+        "Morri em 2013, aos 95 anos.",
+        "Fui um líder político."
+      ]
+    }
+  },
+  {
+    "id": "person-marie-curie",
+    "category": "person",
+    "answer": {
+      "en": "Marie Curie",
+      "pt": "Marie Curie"
+    },
+    "aliases": {
+      "en": [
+        "curie",
+        "madame curie",
+        "marie sklodowska curie",
+        "maria sklodowska",
+        "marie skłodowska curie"
+      ],
+      "pt": [
+        "curie",
+        "madame curie",
+        "marie sklodowska curie",
+        "maria sklodowska"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I was born in Warsaw, Poland, in 1867.",
+        "I was the first woman to win a Nobel Prize.",
+        "I won Nobel Prizes in two different sciences.",
+        "I discovered two chemical elements.",
+        "I named one of the elements I discovered after my homeland.",
+        "My husband, Pierre, was also a scientist and worked with me.",
+        "One of my daughters also won a Nobel Prize.",
+        "I was the first woman to become a professor at the University of Paris.",
+        "I coined the term \"radioactivity\".",
+        "During World War I, I developed mobile X-ray units to help wounded soldiers.",
+        "My notebooks are still radioactive today.",
+        "I am buried in the Panthéon, in Paris.",
+        "I moved to Paris in 1891 to study at the Sorbonne.",
+        "I discovered the chemical element radium.",
+        "I was a physicist and a chemist.",
+        "A chemical element was named in honor of me and my husband.",
+        "I won my first Nobel Prize in 1903 and my second in 1911.",
+        "I died in 1934, in France.",
+        "I was a scientist.",
+        "My long exposure to radiation damaged my health."
+      ],
+      "pt": [
+        "Nasci em Varsóvia, na Polônia, em 1867.",
+        "Fui a primeira mulher a ganhar um Prêmio Nobel.",
+        "Ganhei prêmios Nobel em duas ciências diferentes.",
+        "Descobri dois elementos químicos.",
+        "Batizei um dos elementos que descobri em homenagem à minha terra natal.",
+        "Meu marido, Pierre, também era cientista e trabalhava comigo.",
+        "Uma das minhas filhas também ganhou um Prêmio Nobel.",
+        "Fui a primeira mulher a se tornar professora na Universidade de Paris.",
+        "Criei o termo \"radioatividade\".",
+        "Durante a Primeira Guerra Mundial, desenvolvi unidades móveis de raios X para ajudar soldados feridos.",
+        "Meus cadernos de anotações são radioativos até hoje.",
+        "Estou sepultada no Panteão, em Paris.",
+        "Mudei-me para Paris em 1891 para estudar na Sorbonne.",
+        "Descobri o elemento químico rádio.",
+        "Fui física e química.",
+        "Um elemento químico foi batizado em homenagem a mim e ao meu marido.",
+        "Ganhei meu primeiro Prêmio Nobel em 1903 e o segundo em 1911.",
+        "Morri em 1934, na França.",
+        "Fui uma cientista.",
+        "Minha longa exposição à radiação prejudicou minha saúde."
+      ]
+    }
+  },
+  {
+    "id": "person-wolfgang-amadeus-mozart",
+    "category": "person",
+    "answer": {
+      "en": "Wolfgang Amadeus Mozart",
+      "pt": "Wolfgang Amadeus Mozart"
+    },
+    "aliases": {
+      "en": [
+        "mozart",
+        "wolfgang mozart",
+        "amadeus mozart",
+        "w. a. mozart"
+      ],
+      "pt": [
+        "mozart",
+        "wolfgang mozart",
+        "amadeus mozart"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I was born in Salzburg in 1756.",
+        "I died in Vienna at the age of 35.",
+        "I was a child prodigy.",
+        "I began composing when I was about five years old.",
+        "My father, Leopold, was my teacher.",
+        "My older sister, nicknamed Nannerl, was also a talented musician.",
+        "I composed the opera \"The Magic Flute\".",
+        "I left my Requiem unfinished when I died.",
+        "I composed more than 600 works.",
+        "As a child, I toured the royal courts of Europe giving concerts.",
+        "I composed \"Eine kleine Nachtmusik\" (\"A Little Night Music\").",
+        "My wife was named Constanze.",
+        "A chocolate sweet from my hometown carries my name.",
+        "I am one of the great composers of the Classical period.",
+        "An Oscar-winning 1984 film tells a story about my life and the composer Salieri.",
+        "I composed the operas \"Don Giovanni\" and \"The Marriage of Figaro\".",
+        "I played the harpsichord, the piano and the violin.",
+        "My works are numbered in the Köchel catalogue.",
+        "I was a musician.",
+        "I was a friend of the composer Joseph Haydn."
+      ],
+      "pt": [
+        "Nasci em Salzburgo em 1756.",
+        "Morri em Viena aos 35 anos.",
+        "Fui uma criança prodígio.",
+        "Comecei a compor quando tinha cerca de cinco anos.",
+        "Meu pai, Leopold, foi meu professor.",
+        "Minha irmã mais velha, apelidada de Nannerl, também era uma musicista talentosa.",
+        "Compus a ópera \"A Flauta Mágica\".",
+        "Deixei meu Réquiem inacabado quando morri.",
+        "Compus mais de 600 obras.",
+        "Quando criança, viajei pelas cortes reais da Europa dando concertos.",
+        "Compus \"Eine kleine Nachtmusik\" (\"Pequena Serenata Noturna\").",
+        "Minha esposa se chamava Constanze.",
+        "Um bombom de chocolate da minha cidade natal leva o meu nome.",
+        "Sou um dos grandes compositores do período clássico.",
+        "Um filme de 1984, vencedor do Oscar, conta uma história sobre a minha vida e o compositor Salieri.",
+        "Compus as óperas \"Don Giovanni\" e \"As Bodas de Fígaro\".",
+        "Eu tocava cravo, piano e violino.",
+        "Minhas obras são numeradas no catálogo Köchel.",
+        "Fui um músico.",
+        "Fui amigo do compositor Joseph Haydn."
+      ]
+    }
+  },
+  {
+    "id": "person-neil-armstrong",
+    "category": "person",
+    "answer": {
+      "en": "Neil Armstrong",
+      "pt": "Neil Armstrong"
+    },
+    "aliases": {
+      "en": [
+        "armstrong",
+        "neil a. armstrong",
+        "neil alden armstrong"
+      ],
+      "pt": [
+        "armstrong"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I was born in Ohio, in the United States, in 1930.",
+        "I was the commander of the Apollo 11 mission.",
+        "I said: \"That's one small step for man, one giant leap for mankind\".",
+        "My crewmates were Buzz Aldrin and Michael Collins.",
+        "Before my most famous mission, I flew in space on Gemini 8.",
+        "I was a United States Navy pilot in the Korean War.",
+        "I was a test pilot and flew the X-15 rocket plane.",
+        "I studied aeronautical engineering.",
+        "After leaving NASA, I became a university professor.",
+        "I landed a lunar module called \"Eagle\", taking manual control on the way down.",
+        "I landed on the Sea of Tranquility.",
+        "I got my pilot's license before my driver's license.",
+        "Ryan Gosling played me in the film \"First Man\".",
+        "I was an astronaut.",
+        "Hundreds of millions of people watched me on television on July 20, 1969.",
+        "I was the first person to walk on the Moon.",
+        "I was known for being reserved and avoiding publicity.",
+        "I died in 2012, at the age of 82.",
+        "I left my footprints in a place with no wind to blow them away.",
+        "I am American."
+      ],
+      "pt": [
+        "Nasci em Ohio, nos Estados Unidos, em 1930.",
+        "Fui o comandante da missão Apollo 11.",
+        "Eu disse: \"Um pequeno passo para o homem, um salto gigantesco para a humanidade\".",
+        "Meus companheiros de tripulação eram Buzz Aldrin e Michael Collins.",
+        "Antes da minha missão mais famosa, voei ao espaço na Gemini 8.",
+        "Fui piloto da Marinha dos Estados Unidos na Guerra da Coreia.",
+        "Fui piloto de testes e voei no avião-foguete X-15.",
+        "Estudei engenharia aeronáutica.",
+        "Depois de deixar a NASA, tornei-me professor universitário.",
+        "Pousei um módulo lunar chamado \"Eagle\" (\"Águia\"), assumindo o controle manual na descida.",
+        "Pousei no Mar da Tranquilidade.",
+        "Tirei meu brevê de piloto antes da carteira de motorista.",
+        "Ryan Gosling me interpretou no filme \"O Primeiro Homem\".",
+        "Fui um astronauta.",
+        "Centenas de milhões de pessoas me assistiram pela televisão em 20 de julho de 1969.",
+        "Fui a primeira pessoa a pisar na Lua.",
+        "Eu era conhecido por ser reservado e evitar a fama.",
+        "Morri em 2012, aos 82 anos.",
+        "Deixei minhas pegadas em um lugar onde não há vento para apagá-las.",
+        "Sou americano."
+      ]
+    }
+  },
+  {
+    "id": "person-frida-kahlo",
+    "category": "person",
+    "answer": {
+      "en": "Frida Kahlo",
+      "pt": "Frida Kahlo"
+    },
+    "aliases": {
+      "en": [
+        "frida",
+        "kahlo",
+        "magdalena carmen frida kahlo y calderon"
+      ],
+      "pt": [
+        "frida",
+        "kahlo"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I was born in Coyoacán, Mexico City, in 1907.",
+        "The house where I was born and died is now a museum known as the \"Blue House\".",
+        "I am famous for my self-portraits.",
+        "I suffered a serious bus accident when I was 18.",
+        "I had polio as a child.",
+        "I married the muralist Diego Rivera twice.",
+        "My thick, joined eyebrows are one of my trademarks.",
+        "I liked to wear traditional Mexican dresses.",
+        "I began painting in bed, using a mirror, while recovering from an accident.",
+        "Salma Hayek played me in a 2002 film.",
+        "My father was a photographer born in Germany.",
+        "Before becoming an artist, I wanted to study medicine.",
+        "I kept monkeys, parrots and a deer as pets.",
+        "I often wore flowers in my hair.",
+        "My last painting shows watermelons and the words \"Viva la Vida\".",
+        "I was a painter.",
+        "I am Mexican.",
+        "I died in 1954, at the age of 47.",
+        "I lived with physical pain for most of my life and showed it in my art.",
+        "One of my best-known paintings shows two versions of me sitting side by side."
+      ],
+      "pt": [
+        "Nasci em Coyoacán, na Cidade do México, em 1907.",
+        "A casa onde nasci e morri é hoje um museu conhecido como \"Casa Azul\".",
+        "Sou famosa pelos meus autorretratos.",
+        "Sofri um grave acidente de ônibus aos 18 anos.",
+        "Tive poliomielite quando criança.",
+        "Casei-me duas vezes com o muralista Diego Rivera.",
+        "Minhas sobrancelhas grossas e unidas são uma das minhas marcas registradas.",
+        "Eu gostava de usar vestidos tradicionais mexicanos.",
+        "Comecei a pintar na cama, usando um espelho, enquanto me recuperava de um acidente.",
+        "Salma Hayek me interpretou em um filme de 2002.",
+        "Meu pai era um fotógrafo nascido na Alemanha.",
+        "Antes de me tornar artista, eu queria estudar medicina.",
+        "Eu tinha macacos, papagaios e um veado como animais de estimação.",
+        "Eu costumava usar flores no cabelo.",
+        "Meu último quadro mostra melancias e as palavras \"Viva la Vida\".",
+        "Fui uma pintora.",
+        "Sou mexicana.",
+        "Morri em 1954, aos 47 anos.",
+        "Convivi com dores físicas durante a maior parte da vida e mostrei isso na minha arte.",
+        "Um dos meus quadros mais conhecidos mostra duas versões de mim sentadas lado a lado."
+      ]
+    }
+  },
+  {
+    "id": "person-charlie-chaplin",
+    "category": "person",
+    "answer": {
+      "en": "Charlie Chaplin",
+      "pt": "Charlie Chaplin"
+    },
+    "aliases": {
+      "en": [
+        "chaplin",
+        "charles chaplin",
+        "sir charles chaplin",
+        "charles spencer chaplin"
+      ],
+      "pt": [
+        "chaplin",
+        "charles chaplin",
+        "carlitos"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I was born in London in 1889.",
+        "I died in Switzerland on Christmas Day, 1977.",
+        "My most famous character is a tramp.",
+        "My character wears a bowler hat, carries a cane and has a small mustache.",
+        "I became famous in silent films.",
+        "I directed and starred in \"Modern Times\".",
+        "I was one of the founders of the United Artists studio.",
+        "I composed the music for many of my own films.",
+        "I received an honorary Oscar in 1972, with a standing ovation that lasted many minutes.",
+        "I was knighted by Queen Elizabeth II.",
+        "I had a very poor childhood.",
+        "My first true talking picture was \"The Great Dictator\".",
+        "My daughter Geraldine also became an actress.",
+        "In one famous scene, my character cooks and eats his own shoe.",
+        "I made the films \"The Kid\" and \"City Lights\".",
+        "I composed the melody of the song \"Smile\".",
+        "I was an actor, director, screenwriter and producer.",
+        "I made people laugh without saying a word.",
+        "I started performing on stage as a child.",
+        "I went to the United States with a comedy troupe and began making films there in 1914."
+      ],
+      "pt": [
+        "Nasci em Londres em 1889.",
+        "Morri na Suíça no dia de Natal de 1977.",
+        "Meu personagem mais famoso é um vagabundo.",
+        "Meu personagem usa chapéu-coco, bengala e um bigodinho.",
+        "Fiquei famoso no cinema mudo.",
+        "Dirigi e estrelei \"Tempos Modernos\".",
+        "Fui um dos fundadores do estúdio United Artists.",
+        "Compus a música de muitos dos meus próprios filmes.",
+        "Recebi um Oscar honorário em 1972, sendo aplaudido de pé por vários minutos.",
+        "Fui condecorado cavaleiro pela rainha Elizabeth II.",
+        "Tive uma infância muito pobre.",
+        "Meu primeiro filme realmente falado foi \"O Grande Ditador\".",
+        "Minha filha Geraldine também se tornou atriz.",
+        "Em uma cena famosa, meu personagem cozinha e come o próprio sapato.",
+        "Fiz os filmes \"O Garoto\" e \"Luzes da Cidade\".",
+        "Compus a melodia da canção \"Smile\".",
+        "Fui ator, diretor, roteirista e produtor.",
+        "Fiz as pessoas rirem sem dizer uma palavra.",
+        "Comecei a me apresentar nos palcos ainda criança.",
+        "Fui para os Estados Unidos com uma trupe de comédia e comecei a fazer filmes lá em 1914."
+      ]
+    }
+  },
+  {
+    "id": "person-santos-dumont",
+    "category": "person",
+    "answer": {
+      "en": "Santos Dumont",
+      "pt": "Santos Dumont"
+    },
+    "aliases": {
+      "en": [
+        "alberto santos dumont",
+        "santos-dumont",
+        "alberto santos-dumont",
+        "dumont"
+      ],
+      "pt": [
+        "alberto santos dumont",
+        "santos-dumont",
+        "alberto santos-dumont",
+        "dumont"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I was born in Minas Gerais, Brazil, in 1873.",
+        "In 1906, I flew an airplane called the 14-bis in Paris.",
+        "In 1901, I flew an airship around the Eiffel Tower and won a prize.",
+        "One of the first men's wristwatches was created for me by my friend Louis Cartier.",
+        "My father was a wealthy coffee planter.",
+        "I was known for wearing a hat and high collars.",
+        "In Brazil, I am called the \"Father of Aviation\".",
+        "An airport in downtown Rio de Janeiro is named after me.",
+        "I gave away prize money to my workers and to the poor of Paris.",
+        "I built a small house in Petrópolis called \"A Encantada\".",
+        "I lived in Paris for many years.",
+        "As a boy, I loved reading the books of Jules Verne.",
+        "I designed a small, light airplane called the \"Demoiselle\".",
+        "I was an inventor.",
+        "I am Brazilian.",
+        "I died in Guarujá in 1932.",
+        "I built and flew balloons and airships before building airplanes.",
+        "My first name was Alberto.",
+        "The staircase of my house forces visitors to start climbing with the right foot.",
+        "I was a pioneer of aviation."
+      ],
+      "pt": [
+        "Nasci em Minas Gerais, em 1873.",
+        "Em 1906, voei em Paris com um avião chamado 14-bis.",
+        "Em 1901, contornei a Torre Eiffel com um dirigível e ganhei um prêmio.",
+        "Um dos primeiros relógios de pulso masculinos foi criado para mim pelo meu amigo Louis Cartier.",
+        "Meu pai era um rico fazendeiro de café.",
+        "Eu era conhecido por usar chapéu e colarinhos altos.",
+        "No Brasil, sou chamado de \"Pai da Aviação\".",
+        "Um aeroporto no centro do Rio de Janeiro leva o meu nome.",
+        "Doei o dinheiro de um prêmio aos meus funcionários e aos pobres de Paris.",
+        "Construí uma pequena casa em Petrópolis chamada \"A Encantada\".",
+        "Morei em Paris por muitos anos.",
+        "Quando menino, eu adorava ler os livros de Júlio Verne.",
+        "Projetei um avião pequeno e leve chamado \"Demoiselle\".",
+        "Fui um inventor.",
+        "Sou brasileiro.",
+        "Morri no Guarujá em 1932.",
+        "Construí e pilotei balões e dirigíveis antes de construir aviões.",
+        "Meu primeiro nome era Alberto.",
+        "A escada da minha casa obriga o visitante a começar a subir com o pé direito.",
+        "Fui um pioneiro da aviação."
+      ]
+    }
+  },
+  {
+    "id": "person-ayrton-senna",
+    "category": "person",
+    "answer": {
+      "en": "Ayrton Senna",
+      "pt": "Ayrton Senna"
+    },
+    "aliases": {
+      "en": [
+        "senna",
+        "ayrton senna da silva",
+        "airton senna"
+      ],
+      "pt": [
+        "senna",
+        "ayrton senna da silva",
+        "airton senna"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I was born in the city of São Paulo in 1960.",
+        "I was a three-time Formula 1 world champion.",
+        "I won my world titles in 1988, 1990 and 1991.",
+        "I won all my world titles driving for McLaren.",
+        "My great rival was the Frenchman Alain Prost.",
+        "My helmet was yellow with green and blue stripes.",
+        "I started racing in karts as a child.",
+        "I made my Formula 1 debut in 1984 with the Toleman team.",
+        "My first Grand Prix victory was in Portugal, in 1985, under heavy rain.",
+        "I won the Monaco Grand Prix six times.",
+        "I was famous for my skill at driving in the rain.",
+        "I won 41 Grands Prix.",
+        "An institute founded by my family supports the education of children in Brazil.",
+        "A children's comic book character was inspired by me.",
+        "I used to wave the Brazilian flag from my car after winning.",
+        "I died in an accident at Imola, Italy, on May 1, 1994.",
+        "I won the 1991 Brazilian Grand Prix with my car stuck in sixth gear.",
+        "I was a racing driver.",
+        "I am Brazilian.",
+        "In my last season, I drove for the Williams team."
+      ],
+      "pt": [
+        "Nasci na cidade de São Paulo em 1960.",
+        "Fui tricampeão mundial de Fórmula 1.",
+        "Conquistei meus títulos mundiais em 1988, 1990 e 1991.",
+        "Conquistei todos os meus títulos mundiais pilotando pela McLaren.",
+        "Meu grande rival foi o francês Alain Prost.",
+        "Meu capacete era amarelo com faixas verdes e azuis.",
+        "Comecei a correr de kart ainda criança.",
+        "Estreei na Fórmula 1 em 1984 pela equipe Toleman.",
+        "Minha primeira vitória em um Grande Prêmio foi em Portugal, em 1985, debaixo de muita chuva.",
+        "Venci o Grande Prêmio de Mônaco seis vezes.",
+        "Eu era famoso pela habilidade de pilotar na chuva.",
+        "Venci 41 Grandes Prêmios.",
+        "Um instituto fundado pela minha família apoia a educação de crianças no Brasil.",
+        "Um personagem de gibi infantil foi inspirado em mim.",
+        "Eu costumava agitar a bandeira do Brasil de dentro do carro depois de vencer.",
+        "Morri em um acidente em Ímola, na Itália, em 1º de maio de 1994.",
+        "Venci o Grande Prêmio do Brasil de 1991 com o carro travado na sexta marcha.",
+        "Fui piloto de corridas.",
+        "Sou brasileiro.",
+        "Na minha última temporada, corri pela equipe Williams."
+      ]
+    }
+  },
+  {
+    "id": "person-isaac-newton",
+    "category": "person",
+    "answer": {
+      "en": "Isaac Newton",
+      "pt": "Isaac Newton"
+    },
+    "aliases": {
+      "en": [
+        "newton",
+        "sir isaac newton"
+      ],
+      "pt": [
+        "newton",
+        "sir isaac newton"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I was born in England on Christmas Day, 1642, by the calendar used there at the time.",
+        "Legend says a falling apple inspired one of my greatest ideas.",
+        "I formulated the three laws of motion.",
+        "I formulated the law of universal gravitation.",
+        "My most important book, published in 1687, is known as the \"Principia\".",
+        "I developed calculus, at about the same time as the German Leibniz.",
+        "I built the first practical reflecting telescope.",
+        "Using a prism, I showed that white light is made up of many colors.",
+        "I was Master of the Royal Mint, in charge of England's coins.",
+        "I was president of the Royal Society.",
+        "I was knighted by Queen Anne in 1705.",
+        "I studied and taught at the University of Cambridge.",
+        "The unit of force in physics carries my name.",
+        "I wrote that if I had seen further, it was by standing on the shoulders of giants.",
+        "I never married.",
+        "I spent a lot of time studying alchemy.",
+        "I made important discoveries at home while my university was closed because of the plague.",
+        "I am buried in Westminster Abbey, in London.",
+        "I was a physicist and mathematician.",
+        "I died in 1727."
+      ],
+      "pt": [
+        "Nasci na Inglaterra no dia de Natal de 1642, pelo calendário usado lá na época.",
+        "Diz a lenda que a queda de uma maçã inspirou uma das minhas maiores ideias.",
+        "Formulei as três leis do movimento.",
+        "Formulei a lei da gravitação universal.",
+        "Meu livro mais importante, publicado em 1687, é conhecido como \"Principia\".",
+        "Desenvolvi o cálculo, mais ou menos na mesma época que o alemão Leibniz.",
+        "Construí o primeiro telescópio refletor prático.",
+        "Com um prisma, mostrei que a luz branca é composta de várias cores.",
+        "Fui diretor da Casa da Moeda Real, responsável pelas moedas da Inglaterra.",
+        "Fui presidente da Royal Society.",
+        "Fui condecorado cavaleiro pela rainha Ana em 1705.",
+        "Estudei e lecionei na Universidade de Cambridge.",
+        "A unidade de força na física leva o meu nome.",
+        "Escrevi que, se vi mais longe, foi por estar sobre os ombros de gigantes.",
+        "Nunca me casei.",
+        "Dediquei muito tempo ao estudo da alquimia.",
+        "Fiz descobertas importantes em casa enquanto minha universidade estava fechada por causa da peste.",
+        "Estou sepultado na Abadia de Westminster, em Londres.",
+        "Fui físico e matemático.",
+        "Morri em 1727."
+      ]
+    }
+  }
+]

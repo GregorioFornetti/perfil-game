@@ -1,0 +1,900 @@
+[
+  {
+    "id": "thing-car",
+    "category": "thing",
+    "answer": {
+      "en": "Car",
+      "pt": "Carro"
+    },
+    "aliases": {
+      "en": [
+        "automobile",
+        "a car"
+      ],
+      "pt": [
+        "automóvel",
+        "automovel",
+        "um carro"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I have four wheels.",
+        "I need fuel or electricity to move.",
+        "I have a steering wheel.",
+        "You need a license to drive me.",
+        "I usually sleep in a garage.",
+        "I have a trunk for your luggage.",
+        "Henry Ford helped make me popular.",
+        "I often get stuck in traffic.",
+        "I have headlights to see at night.",
+        "Seat belts keep my passengers safe.",
+        "I honk when my driver is impatient.",
+        "I usually take up to five people.",
+        "I have an engine under my hood.",
+        "I have windshield wipers for rainy days.",
+        "I have pedals, but nobody pedals me.",
+        "I need an oil change from time to time.",
+        "I have rear-view mirrors.",
+        "I travel on streets and highways.",
+        "I get parked when I am not in use.",
+        "Some versions of me compete in races like Formula 1."
+      ],
+      "pt": [
+        "Tenho quatro rodas.",
+        "Preciso de combustível ou eletricidade para me mover.",
+        "Tenho um volante.",
+        "Você precisa de habilitação para me dirigir.",
+        "Costumo dormir na garagem.",
+        "Tenho um porta-malas para a sua bagagem.",
+        "Henry Ford ajudou a me popularizar.",
+        "Fico preso no trânsito com frequência.",
+        "Tenho faróis para enxergar à noite.",
+        "Cintos de segurança protegem meus passageiros.",
+        "Buzino quando meu motorista está impaciente.",
+        "Geralmente levo até cinco pessoas.",
+        "Tenho um motor debaixo do capô.",
+        "Tenho limpadores de para-brisa para os dias de chuva.",
+        "Tenho pedais, mas ninguém me pedala.",
+        "Preciso de troca de óleo de vez em quando.",
+        "Tenho espelhos retrovisores.",
+        "Ando por ruas e estradas.",
+        "Fico estacionado quando não estou em uso.",
+        "Algumas versões de mim disputam corridas como a Fórmula 1."
+      ]
+    }
+  },
+  {
+    "id": "thing-umbrella",
+    "category": "thing",
+    "answer": {
+      "en": "Umbrella",
+      "pt": "Guarda-chuva"
+    },
+    "aliases": {
+      "en": [
+        "an umbrella",
+        "brolly"
+      ],
+      "pt": [
+        "guarda chuva",
+        "guardachuva",
+        "sombrinha",
+        "um guarda-chuva"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I open and close.",
+        "I keep you dry.",
+        "People often forget me in places.",
+        "A strong wind can turn me inside out.",
+        "I have metal ribs.",
+        "I have a handle, often curved.",
+        "Mary Poppins flew holding one of me.",
+        "Superstitious people say opening me indoors brings bad luck.",
+        "I am most useful on stormy days.",
+        "I am covered with waterproof fabric.",
+        "Some of me fold up small enough to fit in a bag.",
+        "You hold me above your head.",
+        "I can also protect you from the sun.",
+        "Rihanna had a hit song with my English name as its title.",
+        "I am usually left dripping by the door.",
+        "You check the weather forecast to decide whether to take me.",
+        "I have a rounded shape when open.",
+        "In Brazil's frevo dance, dancers hold a small colorful version of me.",
+        "I look like a stick when I am closed.",
+        "When dark clouds gather, people reach for me."
+      ],
+      "pt": [
+        "Eu abro e fecho.",
+        "Mantenho você seco.",
+        "As pessoas costumam me esquecer nos lugares.",
+        "Um vento forte pode me virar do avesso.",
+        "Tenho varetas de metal.",
+        "Tenho um cabo, muitas vezes curvo.",
+        "Mary Poppins voava segurando um de mim.",
+        "Os supersticiosos dizem que me abrir dentro de casa dá azar.",
+        "Sou mais útil em dias de tempestade.",
+        "Sou coberto por um tecido impermeável.",
+        "Alguns de mim dobram e cabem dentro de uma bolsa.",
+        "Você me segura acima da cabeça.",
+        "Também posso proteger você do sol.",
+        "Rihanna teve uma música de sucesso cujo título é o meu nome em inglês.",
+        "Costumo ficar pingando perto da porta.",
+        "Você olha a previsão do tempo para decidir se me leva.",
+        "Tenho formato arredondado quando estou aberto.",
+        "No frevo, os dançarinos seguram uma versão pequena e colorida de mim.",
+        "Pareço um bastão quando estou fechado.",
+        "Quando as nuvens escuras se juntam, as pessoas me procuram."
+      ]
+    }
+  },
+  {
+    "id": "thing-bicycle",
+    "category": "thing",
+    "answer": {
+      "en": "Bicycle",
+      "pt": "Bicicleta"
+    },
+    "aliases": {
+      "en": [
+        "bike",
+        "a bicycle"
+      ],
+      "pt": [
+        "bike",
+        "magrela",
+        "uma bicicleta"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I have two wheels.",
+        "You move me with your legs.",
+        "I have pedals and a chain.",
+        "I do not need fuel.",
+        "Children often learn to ride me with training wheels.",
+        "The Tour de France is a famous race for me.",
+        "I have handlebars.",
+        "I have a saddle to sit on.",
+        "You need balance to ride me.",
+        "It is wise to wear a helmet when using me.",
+        "Many cities have special lanes just for me.",
+        "I may have a little bell to warn pedestrians.",
+        "I am good exercise and I do not pollute.",
+        "Some of me have many gears for climbing hills.",
+        "They say you never forget how to ride me.",
+        "I am very popular in the Netherlands.",
+        "A flat tire can stop me.",
+        "I am often locked to a post so nobody takes me.",
+        "There is a stationary version of me in gyms.",
+        "In the movie E.T., I flew in front of the moon."
+      ],
+      "pt": [
+        "Tenho duas rodas.",
+        "Você me move com as pernas.",
+        "Tenho pedais e uma corrente.",
+        "Não preciso de combustível.",
+        "As crianças costumam aprender a andar em mim com rodinhas.",
+        "O Tour de France é uma corrida famosa feita comigo.",
+        "Tenho guidão.",
+        "Tenho um selim para sentar.",
+        "Você precisa de equilíbrio para andar em mim.",
+        "É prudente usar capacete ao me usar.",
+        "Muitas cidades têm faixas exclusivas para mim.",
+        "Posso ter uma campainha para avisar os pedestres.",
+        "Sou um bom exercício e não poluo.",
+        "Algumas de mim têm várias marchas para subir ladeiras.",
+        "Dizem que ninguém esquece como andar em mim.",
+        "Sou muito popular na Holanda.",
+        "Um pneu furado pode me parar.",
+        "Costumo ser presa a um poste com cadeado para ninguém me levar.",
+        "Existe uma versão de mim que fica parada nas academias.",
+        "No filme E.T., voei na frente da lua."
+      ]
+    }
+  },
+  {
+    "id": "thing-clock",
+    "category": "thing",
+    "answer": {
+      "en": "Clock",
+      "pt": "Relógio"
+    },
+    "aliases": {
+      "en": [
+        "watch",
+        "a clock"
+      ],
+      "pt": [
+        "relogio",
+        "um relógio"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I have hands that never stop moving.",
+        "I go tick-tock.",
+        "I tell you the time.",
+        "I usually have numbers from 1 to 12.",
+        "I can wake you up in the morning.",
+        "I can hang on the wall or go on your wrist.",
+        "A very famous one of me is in a tower in London.",
+        "I can be analog or digital.",
+        "Switzerland is famous for making me.",
+        "Some of me have a cuckoo that pops out.",
+        "I often run on batteries.",
+        "Before me, people used the shadow cast by the sun.",
+        "Without me, you might be late.",
+        "I count seconds, minutes and hours.",
+        "Old versions of me had a swinging pendulum.",
+        "I must be adjusted when daylight saving time begins.",
+        "My shortest hand goes around twice a day.",
+        "In Cinderella, I struck midnight and the magic ended.",
+        "Salvador Dalí painted me melting.",
+        "I am found in train stations, classrooms and kitchens."
+      ],
+      "pt": [
+        "Tenho ponteiros que não param de se mover.",
+        "Faço tique-taque.",
+        "Eu digo as horas para você.",
+        "Costumo ter números de 1 a 12.",
+        "Posso acordar você de manhã.",
+        "Posso ficar na parede ou no seu pulso.",
+        "Um dos mais famosos de mim fica em uma torre em Londres.",
+        "Posso ser analógico ou digital.",
+        "A Suíça é famosa por me fabricar.",
+        "Alguns de mim têm um cuco que sai de dentro.",
+        "Muitas vezes funciono a pilha.",
+        "Antes de mim, as pessoas usavam a sombra feita pelo sol.",
+        "Sem mim, você poderia se atrasar.",
+        "Conto segundos, minutos e horas.",
+        "Versões antigas de mim tinham um pêndulo que balançava.",
+        "Preciso ser ajustado quando começa o horário de verão.",
+        "Meu ponteiro menor dá duas voltas por dia.",
+        "Em Cinderela, bati a meia-noite e a magia acabou.",
+        "Salvador Dalí me pintou derretendo.",
+        "Estou em estações de trem, salas de aula e cozinhas."
+      ]
+    }
+  },
+  {
+    "id": "thing-book",
+    "category": "thing",
+    "answer": {
+      "en": "Book",
+      "pt": "Livro"
+    },
+    "aliases": {
+      "en": [
+        "a book"
+      ],
+      "pt": [
+        "um livro"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I have many pages.",
+        "I have a cover and a spine.",
+        "I live in libraries.",
+        "I am made of paper and ink.",
+        "I am written by an author.",
+        "Gutenberg's press made me much easier to produce.",
+        "I am divided into chapters.",
+        "I can tell you a story without making a sound.",
+        "I can be a novel, a biography or a dictionary.",
+        "You can mark where you stopped in me with a strip of paper.",
+        "I now also exist in digital form.",
+        "The Bible is the best-selling one of me.",
+        "Students take me to school.",
+        "Many films are based on me.",
+        "I usually have a title on the front.",
+        "I may have a table of contents at the beginning.",
+        "People say you should not judge me by my outside.",
+        "I can be hardcover or paperback.",
+        "You can buy me in a shop or borrow me for free.",
+        "Reading me is a way to travel without leaving home."
+      ],
+      "pt": [
+        "Tenho muitas páginas.",
+        "Tenho capa e lombada.",
+        "Moro em bibliotecas.",
+        "Sou feito de papel e tinta.",
+        "Sou escrito por um autor.",
+        "A prensa de Gutenberg tornou muito mais fácil me produzir.",
+        "Sou dividido em capítulos.",
+        "Posso contar uma história sem fazer nenhum som.",
+        "Posso ser um romance, uma biografia ou um dicionário.",
+        "Você pode marcar onde parou em mim com uma tira de papel.",
+        "Hoje também existo em formato digital.",
+        "A Bíblia é o mais vendido de mim.",
+        "Os estudantes me levam para a escola.",
+        "Muitos filmes são baseados em mim.",
+        "Costumo ter um título na frente.",
+        "Posso ter um sumário no começo.",
+        "Dizem que não se deve me julgar pela aparência externa.",
+        "Posso ser de capa dura ou brochura.",
+        "Você pode me comprar em uma loja ou me pegar emprestado de graça.",
+        "Me ler é um jeito de viajar sem sair de casa."
+      ]
+    }
+  },
+  {
+    "id": "thing-mirror",
+    "category": "thing",
+    "answer": {
+      "en": "Mirror",
+      "pt": "Espelho"
+    },
+    "aliases": {
+      "en": [
+        "a mirror",
+        "looking glass"
+      ],
+      "pt": [
+        "um espelho"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I show you yourself.",
+        "I am made of glass with a reflective coating.",
+        "Breaking me is said to bring seven years of bad luck.",
+        "Snow White's stepmother asked me questions.",
+        "I am usually above the bathroom sink.",
+        "In me, written words appear reversed.",
+        "According to legend, vampires do not appear in me.",
+        "I reflect light.",
+        "Cars have several of me.",
+        "Dentists use a tiny version of me.",
+        "I fog up after a hot shower.",
+        "Alice went through me in a story by Lewis Carroll.",
+        "People look at me to comb their hair.",
+        "Some telescopes use me to gather light.",
+        "At amusement parks, curved versions of me make you look funny.",
+        "Narcissus used the surface of the water instead of me.",
+        "I can make a small room look bigger.",
+        "I can be flat, concave or convex.",
+        "Dance studios cover their walls with me.",
+        "I copy every move you make."
+      ],
+      "pt": [
+        "Eu mostro você a você mesmo.",
+        "Sou feito de vidro com uma camada refletora.",
+        "Dizem que me quebrar dá sete anos de azar.",
+        "A madrasta da Branca de Neve me fazia perguntas.",
+        "Costumo ficar em cima da pia do banheiro.",
+        "Em mim, as palavras escritas aparecem invertidas.",
+        "Segundo a lenda, os vampiros não aparecem em mim.",
+        "Eu reflito a luz.",
+        "Os carros têm vários de mim.",
+        "Os dentistas usam uma versão minúscula de mim.",
+        "Fico embaçado depois de um banho quente.",
+        "Alice me atravessou em uma história de Lewis Carroll.",
+        "As pessoas me olham para pentear o cabelo.",
+        "Alguns telescópios me usam para captar luz.",
+        "Em parques de diversões, versões curvas de mim deixam você engraçado.",
+        "Narciso usou a superfície da água no meu lugar.",
+        "Posso fazer um cômodo pequeno parecer maior.",
+        "Posso ser plano, côncavo ou convexo.",
+        "Estúdios de dança cobrem as paredes comigo.",
+        "Eu copio todos os seus movimentos."
+      ]
+    }
+  },
+  {
+    "id": "thing-key",
+    "category": "thing",
+    "answer": {
+      "en": "Key",
+      "pt": "Chave"
+    },
+    "aliases": {
+      "en": [
+        "a key"
+      ],
+      "pt": [
+        "uma chave"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I open doors.",
+        "I am usually made of metal.",
+        "I am small and fit in your pocket.",
+        "I work together with a lock.",
+        "I have teeth, but I do not bite.",
+        "People often lose me.",
+        "I am often hung on a ring with others like me.",
+        "You turn me to start many cars.",
+        "A professional can make a copy of me in a few minutes.",
+        "Saint Peter is often depicted holding me.",
+        "Without me, you may be stuck outside your home.",
+        "Some people hide a spare one of me under the doormat.",
+        "I open diaries, safes and padlocks.",
+        "In hotels, I have often been replaced by a plastic card.",
+        "My shape has to match exactly, or I will not turn.",
+        "Cities symbolically hand me to honored visitors.",
+        "I go into a hole made just for me.",
+        "I jingle when I am together with others like me.",
+        "People who buy a house receive me on moving day.",
+        "With one turn, I lock or unlock."
+      ],
+      "pt": [
+        "Eu abro portas.",
+        "Geralmente sou feita de metal.",
+        "Sou pequena e caibo no seu bolso.",
+        "Trabalho junto com uma fechadura.",
+        "Tenho dentes, mas não mordo.",
+        "As pessoas me perdem com frequência.",
+        "Costumo ficar pendurada em uma argola com outras iguais a mim.",
+        "Você me gira para dar a partida em muitos carros.",
+        "Um profissional pode fazer uma cópia de mim em poucos minutos.",
+        "São Pedro costuma ser representado me segurando.",
+        "Sem mim, você pode ficar do lado de fora de casa.",
+        "Algumas pessoas escondem uma reserva de mim debaixo do tapete da porta.",
+        "Abro diários, cofres e cadeados.",
+        "Nos hotéis, muitas vezes fui substituída por um cartão de plástico.",
+        "Meu formato precisa ser exato, senão eu não giro.",
+        "As cidades me entregam simbolicamente a visitantes ilustres.",
+        "Entro em um buraco feito sob medida para mim.",
+        "Faço barulho quando estou junto de outras iguais a mim.",
+        "Quem compra uma casa me recebe no dia da mudança.",
+        "Com uma volta, eu tranco ou destranco."
+      ]
+    }
+  },
+  {
+    "id": "thing-guitar",
+    "category": "thing",
+    "answer": {
+      "en": "Guitar",
+      "pt": "Violão"
+    },
+    "aliases": {
+      "en": [
+        "acoustic guitar",
+        "a guitar"
+      ],
+      "pt": [
+        "violao",
+        "violão acústico",
+        "um violão"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I usually have six strings.",
+        "I am made of wood.",
+        "I have a hollow body with a round hole.",
+        "You play me with your fingers or a pick.",
+        "I have a neck and frets.",
+        "I am a musical instrument.",
+        "I am essential in bossa nova.",
+        "I need to be tuned.",
+        "I am popular around campfires.",
+        "I have an electric cousin loved by rock bands.",
+        "I am closely associated with Spain and flamenco.",
+        "You play chords on me.",
+        "I travel in a case and may hang from a strap.",
+        "My strings can be nylon or steel.",
+        "João Gilberto was a master at playing me.",
+        "My pegs tighten or loosen my strings.",
+        "Beginners get sore fingertips because of me.",
+        "I rest on your leg when you play sitting down.",
+        "The ukulele is a smaller relative of mine.",
+        "I accompany singers in serenades."
+      ],
+      "pt": [
+        "Geralmente tenho seis cordas.",
+        "Sou feito de madeira.",
+        "Tenho um corpo oco com um buraco redondo.",
+        "Você me toca com os dedos ou com uma palheta.",
+        "Tenho braço e trastes.",
+        "Sou um instrumento musical.",
+        "Sou essencial na bossa nova.",
+        "Preciso ser afinado.",
+        "Sou popular em volta da fogueira.",
+        "Tenho uma prima elétrica adorada pelas bandas de rock.",
+        "Sou muito associado à Espanha e ao flamenco.",
+        "Você toca acordes em mim.",
+        "Viajo dentro de uma capa e posso ficar pendurado em uma correia.",
+        "Minhas cordas podem ser de náilon ou de aço.",
+        "João Gilberto foi um mestre em me tocar.",
+        "Minhas tarraxas apertam ou afrouxam minhas cordas.",
+        "Os iniciantes ficam com a ponta dos dedos dolorida por minha causa.",
+        "Fico apoiado na sua perna quando você toca sentado.",
+        "O ukulele é um parente menor meu.",
+        "Acompanho cantores em serenatas."
+      ]
+    }
+  },
+  {
+    "id": "thing-telephone",
+    "category": "thing",
+    "answer": {
+      "en": "Telephone",
+      "pt": "Telefone"
+    },
+    "aliases": {
+      "en": [
+        "phone",
+        "a telephone"
+      ],
+      "pt": [
+        "um telefone"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I ring.",
+        "Alexander Graham Bell patented me in 1876.",
+        "You say \"hello\" when you answer me.",
+        "I let you talk to someone far away.",
+        "I have a number that identifies me.",
+        "I once had a rotary dial.",
+        "I used to be attached to the wall by a cord.",
+        "Today most people keep a version of me in their pocket.",
+        "I may give a busy signal when you call.",
+        "I have one part you speak into and another you listen to.",
+        "I used to be found in booths on the street.",
+        "Emergency services are reached through me.",
+        "I transmit your voice.",
+        "I can take a message if nobody answers.",
+        "There is a children's whispering game named after me.",
+        "Operators once connected my calls by hand.",
+        "Countries have calling codes for reaching me from abroad.",
+        "Children make a toy version of me with two cans and a string.",
+        "I was a revolution in communication in the 19th century.",
+        "You dial before you talk."
+      ],
+      "pt": [
+        "Eu toco.",
+        "Alexander Graham Bell me patenteou em 1876.",
+        "Você diz \"alô\" quando me atende.",
+        "Permito que você fale com alguém que está longe.",
+        "Tenho um número que me identifica.",
+        "Já tive um disco giratório.",
+        "Eu costumava ficar preso à parede por um fio.",
+        "Hoje a maioria das pessoas leva uma versão de mim no bolso.",
+        "Posso dar sinal de ocupado quando você liga.",
+        "Tenho uma parte para falar e outra para ouvir.",
+        "Eu costumava ser encontrado em cabines nas ruas.",
+        "Os serviços de emergência são chamados por meio de mim.",
+        "Eu transmito a sua voz.",
+        "Posso guardar um recado se ninguém atender.",
+        "Existe uma brincadeira de cochichos que leva o meu nome.",
+        "Antigamente, operadoras completavam minhas ligações manualmente.",
+        "Os países têm códigos de discagem para me chamar do exterior.",
+        "As crianças fazem uma versão de brinquedo de mim com duas latas e um barbante.",
+        "Fui uma revolução na comunicação no século XIX.",
+        "Você disca antes de falar."
+      ]
+    }
+  },
+  {
+    "id": "thing-refrigerator",
+    "category": "thing",
+    "answer": {
+      "en": "Refrigerator",
+      "pt": "Geladeira"
+    },
+    "aliases": {
+      "en": [
+        "fridge",
+        "a refrigerator"
+      ],
+      "pt": [
+        "refrigerador",
+        "uma geladeira"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I keep food cold.",
+        "I live in the kitchen.",
+        "A light turns on when you open my door.",
+        "I stay plugged in day and night.",
+        "People decorate my door with magnets.",
+        "I hum quietly.",
+        "Milk, eggs and butter live inside me.",
+        "I often have a freezer compartment.",
+        "I am cold inside but warm at the back.",
+        "People open me when they are hungry, even without knowing what they want.",
+        "I am a large household appliance.",
+        "I have shelves and drawers.",
+        "I make leftovers last longer.",
+        "Before me, people used blocks of ice to preserve food.",
+        "My door has a rubber seal.",
+        "I use a compressor and a gas to do my job.",
+        "Leaving my door open wastes energy.",
+        "I am usually taller than a child.",
+        "Vegetables go in my bottom drawer.",
+        "If the power is out for a long time, what I hold may spoil."
+      ],
+      "pt": [
+        "Mantenho os alimentos frios.",
+        "Moro na cozinha.",
+        "Uma luz se acende quando você abre a minha porta.",
+        "Fico ligada na tomada dia e noite.",
+        "As pessoas enfeitam a minha porta com ímãs.",
+        "Faço um zumbido baixinho.",
+        "Leite, ovos e manteiga moram dentro de mim.",
+        "Muitas vezes tenho um compartimento congelador.",
+        "Sou fria por dentro, mas quente atrás.",
+        "As pessoas me abrem quando estão com fome, mesmo sem saber o que querem.",
+        "Sou um eletrodoméstico grande.",
+        "Tenho prateleiras e gavetas.",
+        "Faço as sobras durarem mais.",
+        "Antes de mim, as pessoas usavam blocos de gelo para conservar a comida.",
+        "Minha porta tem uma borracha de vedação.",
+        "Uso um compressor e um gás para fazer meu trabalho.",
+        "Deixar a minha porta aberta desperdiça energia.",
+        "Geralmente sou mais alta que uma criança.",
+        "Os legumes ficam na minha gaveta de baixo.",
+        "Se faltar luz por muito tempo, o que eu guardo pode estragar."
+      ]
+    }
+  },
+  {
+    "id": "thing-candle",
+    "category": "thing",
+    "answer": {
+      "en": "Candle",
+      "pt": "Vela"
+    },
+    "aliases": {
+      "en": [
+        "a candle"
+      ],
+      "pt": [
+        "uma vela"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I have a wick.",
+        "I am made of wax.",
+        "I get shorter as I work.",
+        "I stand on top of birthday cakes.",
+        "You blow me out and make a wish.",
+        "I give light when the power goes out.",
+        "I need a match or a lighter to get started.",
+        "I set the mood at romantic dinners.",
+        "I drip as I burn.",
+        "I am common in churches.",
+        "Some of me are scented.",
+        "Before electric light, I lit up homes at night.",
+        "I carry a small flame.",
+        "A gust of wind can put me out.",
+        "I am usually shaped like a cylinder.",
+        "I should never be left burning unattended.",
+        "A menorah holds several of me.",
+        "Bees can provide the material I am made of.",
+        "I leave a thin trail of smoke when I am put out.",
+        "I melt with my own heat."
+      ],
+      "pt": [
+        "Tenho um pavio.",
+        "Sou feita de cera.",
+        "Fico menor enquanto trabalho.",
+        "Fico em cima de bolos de aniversário.",
+        "Você me sopra e faz um pedido.",
+        "Dou luz quando falta energia.",
+        "Preciso de um fósforo ou de um isqueiro para começar.",
+        "Crio o clima em jantares românticos.",
+        "Eu pingo enquanto queimo.",
+        "Sou comum em igrejas.",
+        "Algumas de mim são perfumadas.",
+        "Antes da luz elétrica, eu iluminava as casas à noite.",
+        "Carrego uma pequena chama.",
+        "Um sopro de vento pode me apagar.",
+        "Geralmente tenho formato de cilindro.",
+        "Nunca devo ser deixada acesa sem alguém por perto.",
+        "Uma menorá segura várias de mim.",
+        "As abelhas podem fornecer o material de que sou feita.",
+        "Deixo um fiozinho de fumaça quando me apagam.",
+        "Derreto com o meu próprio calor."
+      ]
+    }
+  },
+  {
+    "id": "thing-soccer-ball",
+    "category": "thing",
+    "answer": {
+      "en": "Soccer ball",
+      "pt": "Bola de futebol"
+    },
+    "aliases": {
+      "en": [
+        "football",
+        "soccer football",
+        "ball",
+        "a soccer ball"
+      ],
+      "pt": [
+        "bola",
+        "uma bola de futebol"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I am round.",
+        "I am full of air.",
+        "Players kick me.",
+        "Most players are not allowed to touch me with their hands.",
+        "My classic look has black and white panels.",
+        "Twenty-two players chase me at the same time.",
+        "When I cross the line between the posts, the crowd screams.",
+        "Pelé treated me very well.",
+        "I am at the center of attention in the World Cup.",
+        "I roll across the grass.",
+        "I need to be pumped up when I go soft.",
+        "I am placed at the center of the field to start the match.",
+        "I used to be made of leather.",
+        "Players hit me with their heads.",
+        "I spend ninety minutes on the field in each match.",
+        "Brazilian children play with me in the street.",
+        "Skilled players keep me in the air with their feet.",
+        "I am placed on a spot for a penalty kick.",
+        "On a good day, I hit the back of the net.",
+        "My circumference is about 70 centimeters."
+      ],
+      "pt": [
+        "Sou redonda.",
+        "Sou cheia de ar.",
+        "Os jogadores me chutam.",
+        "A maioria dos jogadores não pode me tocar com as mãos.",
+        "Meu visual clássico tem gomos pretos e brancos.",
+        "Vinte e dois jogadores correm atrás de mim ao mesmo tempo.",
+        "Quando cruzo a linha entre as traves, a torcida grita.",
+        "Pelé me tratava muito bem.",
+        "Sou o centro das atenções na Copa do Mundo.",
+        "Rolo pela grama.",
+        "Preciso ser enchida quando fico murcha.",
+        "Sou colocada no centro do campo para começar a partida.",
+        "Eu costumava ser feita de couro.",
+        "Os jogadores me acertam com a cabeça.",
+        "Passo noventa minutos em campo a cada partida.",
+        "As crianças brasileiras brincam comigo na rua.",
+        "Jogadores habilidosos me mantêm no ar com os pés.",
+        "Sou colocada em uma marca para a cobrança de pênalti.",
+        "Em um dia bom, eu balanço a rede.",
+        "Minha circunferência é de cerca de 70 centímetros."
+      ]
+    }
+  },
+  {
+    "id": "thing-staircase",
+    "category": "thing",
+    "answer": {
+      "en": "Staircase",
+      "pt": "Escada"
+    },
+    "aliases": {
+      "en": [
+        "stairs",
+        "stairway",
+        "stair",
+        "a staircase"
+      ],
+      "pt": [
+        "escadas",
+        "escadaria",
+        "uma escada"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I have steps.",
+        "I take you up and down.",
+        "I connect the floors of a building.",
+        "I often have a handrail.",
+        "I can be spiral.",
+        "People use me when the elevator is broken.",
+        "There is a moving version of me in shopping malls.",
+        "Climbing me is good exercise.",
+        "You can trip on me if you are not careful.",
+        "Cinderella lost her glass slipper on me.",
+        "I am the way out of a building during a fire.",
+        "I can be made of wood, concrete or metal.",
+        "I go up without ever leaving my place.",
+        "There is often a storage space under me.",
+        "Harry Potter slept in a cupboard under me.",
+        "A famous colorful one of me in Rio was decorated by the artist Selarón.",
+        "I am an obstacle for wheelchairs and baby strollers.",
+        "I may have a landing where you can rest.",
+        "In two-story houses, I usually lead to the bedrooms.",
+        "You climb me one foot at a time."
+      ],
+      "pt": [
+        "Tenho degraus.",
+        "Levo você para cima e para baixo.",
+        "Ligo os andares de um prédio.",
+        "Muitas vezes tenho um corrimão.",
+        "Posso ser em espiral.",
+        "As pessoas me usam quando o elevador está quebrado.",
+        "Existe uma versão rolante de mim nos shoppings.",
+        "Me subir é um bom exercício.",
+        "Você pode tropeçar em mim se não tomar cuidado.",
+        "Cinderela perdeu o sapatinho de cristal em mim.",
+        "Sou o caminho para sair de um prédio durante um incêndio.",
+        "Posso ser feita de madeira, concreto ou metal.",
+        "Eu subo sem nunca sair do lugar.",
+        "Muitas vezes há um espaço para guardar coisas embaixo de mim.",
+        "Harry Potter dormia em um armário embaixo de mim.",
+        "Uma versão famosa e colorida de mim, no Rio, foi decorada pelo artista Selarón.",
+        "Sou um obstáculo para cadeiras de rodas e carrinhos de bebê.",
+        "Posso ter um patamar onde você pode descansar.",
+        "Em sobrados, geralmente levo aos quartos.",
+        "Você me sobe um pé de cada vez."
+      ]
+    }
+  },
+  {
+    "id": "thing-cloud",
+    "category": "thing",
+    "answer": {
+      "en": "Cloud",
+      "pt": "Nuvem"
+    },
+    "aliases": {
+      "en": [
+        "a cloud",
+        "clouds"
+      ],
+      "pt": [
+        "uma nuvem",
+        "nuvens"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I float in the sky.",
+        "I am made of tiny water droplets.",
+        "I can hide the sun.",
+        "Rain falls from me.",
+        "I can be white or gray.",
+        "I look like cotton.",
+        "People see shapes of animals in me.",
+        "The wind pushes me around.",
+        "Airplanes fly through me.",
+        "Some of my types are called cumulus and cirrus.",
+        "Lightning comes from me during a storm.",
+        "Fog is a version of me near the ground.",
+        "My name is also used for storing files on the internet.",
+        "I form when water vapor cools and condenses.",
+        "Daydreamers are said to have their heads in me.",
+        "I have no fixed shape.",
+        "I cast shadows on the ground.",
+        "Snow and hail also come from me.",
+        "I turn pink and orange at sunset.",
+        "When I am dark, people take an umbrella."
+      ],
+      "pt": [
+        "Flutuo no céu.",
+        "Sou feita de gotinhas de água.",
+        "Posso esconder o sol.",
+        "A chuva cai de mim.",
+        "Posso ser branca ou cinza.",
+        "Pareço algodão.",
+        "As pessoas veem formas de animais em mim.",
+        "O vento me empurra de um lado para o outro.",
+        "Os aviões passam por dentro de mim.",
+        "Alguns dos meus tipos se chamam cúmulo e cirro.",
+        "Os raios saem de mim durante uma tempestade.",
+        "A neblina é uma versão de mim perto do chão.",
+        "Meu nome também é usado para guardar arquivos na internet.",
+        "Eu me formo quando o vapor de água esfria e se condensa.",
+        "Dizem que os sonhadores vivem com a cabeça em mim.",
+        "Não tenho forma fixa.",
+        "Faço sombra no chão.",
+        "A neve e o granizo também vêm de mim.",
+        "Fico rosa e laranja ao pôr do sol.",
+        "Quando estou escura, as pessoas pegam o guarda-chuva."
+      ]
+    }
+  }
+]

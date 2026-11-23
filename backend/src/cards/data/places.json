@@ -1,0 +1,893 @@
+[
+  {
+    "id": "place-brazil",
+    "category": "place",
+    "answer": {
+      "en": "Brazil",
+      "pt": "Brasil"
+    },
+    "aliases": {
+      "en": [
+        "brasil"
+      ],
+      "pt": [
+        "brazil"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I am the largest country in South America.",
+        "My official language is Portuguese.",
+        "My national team has won the men's football World Cup five times.",
+        "My flag is green, yellow and blue, with stars on it.",
+        "My capital was inaugurated in 1960 and its layout resembles an airplane.",
+        "I have 26 states and one federal district.",
+        "I became independent in 1822.",
+        "My currency is called the real.",
+        "I am the world's largest producer of coffee.",
+        "My name comes from a tree with reddish wood.",
+        "My Carnival is one of the most famous parties on the planet.",
+        "More than 200 million people live in me.",
+        "I am the fifth-largest country in the world by area.",
+        "Samba and bossa nova were born here.",
+        "I hosted the Summer Olympic Games in 2016.",
+        "I hosted the football World Cup in 1950 and in 2014.",
+        "I share famous waterfalls with Argentina.",
+        "Both the Equator and the Tropic of Capricorn cross my territory.",
+        "The words \"Order and Progress\" are written on my flag.",
+        "I was once a colony of Portugal."
+      ],
+      "pt": [
+        "Sou o maior país da América do Sul.",
+        "Minha língua oficial é o português.",
+        "Minha seleção masculina ganhou a Copa do Mundo de futebol cinco vezes.",
+        "Minha bandeira é verde, amarela e azul, com estrelas.",
+        "Minha capital foi inaugurada em 1960 e seu traçado lembra um avião.",
+        "Tenho 26 estados e um distrito federal.",
+        "Tornei-me independente em 1822.",
+        "Minha moeda se chama real.",
+        "Sou o maior produtor de café do mundo.",
+        "Meu nome vem de uma árvore de madeira avermelhada.",
+        "Meu Carnaval é uma das festas mais famosas do planeta.",
+        "Mais de 200 milhões de pessoas vivem em mim.",
+        "Sou o quinto maior país do mundo em área.",
+        "O samba e a bossa nova nasceram aqui.",
+        "Sediei os Jogos Olímpicos de Verão em 2016.",
+        "Sediei a Copa do Mundo de futebol em 1950 e em 2014.",
+        "Divido cataratas famosas com a Argentina.",
+        "A linha do Equador e o Trópico de Capricórnio cruzam meu território.",
+        "As palavras \"Ordem e Progresso\" estão escritas na minha bandeira.",
+        "Já fui colônia de Portugal."
+      ]
+    }
+  },
+  {
+    "id": "place-japan",
+    "category": "place",
+    "answer": {
+      "en": "Japan",
+      "pt": "Japão"
+    },
+    "aliases": {
+      "en": [
+        "nippon",
+        "nihon"
+      ],
+      "pt": [
+        "japao"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I am an island nation in East Asia.",
+        "I am known as the Land of the Rising Sun.",
+        "My flag is white with a red circle in the center.",
+        "My capital is Tokyo.",
+        "My highest mountain is Mount Fuji.",
+        "My currency is the yen.",
+        "I have an emperor.",
+        "Sushi is one of my most famous dishes.",
+        "My bullet trains have been running since 1964.",
+        "Every spring, people gather to admire my cherry blossoms.",
+        "I have four main islands and thousands of smaller ones.",
+        "Anime and manga come from me.",
+        "Sumo wrestling is my traditional sport.",
+        "Earthquakes are frequent in my territory.",
+        "Samurai warriors are part of my history.",
+        "More than 120 million people live in me.",
+        "The kimono is my traditional garment.",
+        "Judo and karate were born here.",
+        "Cars drive on the left side of the road here.",
+        "Origami, the art of folding paper, is one of my traditions."
+      ],
+      "pt": [
+        "Sou um país insular no Leste Asiático.",
+        "Sou conhecido como a Terra do Sol Nascente.",
+        "Minha bandeira é branca com um círculo vermelho no centro.",
+        "Minha capital é Tóquio.",
+        "Minha montanha mais alta é o Monte Fuji.",
+        "Minha moeda é o iene.",
+        "Tenho um imperador.",
+        "O sushi é um dos meus pratos mais famosos.",
+        "Meus trens-bala circulam desde 1964.",
+        "Toda primavera, as pessoas se reúnem para admirar minhas cerejeiras em flor.",
+        "Tenho quatro ilhas principais e milhares de ilhas menores.",
+        "Os animes e os mangás vêm de mim.",
+        "O sumô é meu esporte tradicional.",
+        "Terremotos são frequentes no meu território.",
+        "Os guerreiros samurais fazem parte da minha história.",
+        "Mais de 120 milhões de pessoas vivem em mim.",
+        "O quimono é meu traje tradicional.",
+        "O judô e o caratê nasceram aqui.",
+        "Aqui os carros circulam pelo lado esquerdo da rua.",
+        "O origami, a arte de dobrar papel, é uma das minhas tradições."
+      ]
+    }
+  },
+  {
+    "id": "place-egypt",
+    "category": "place",
+    "answer": {
+      "en": "Egypt",
+      "pt": "Egito"
+    },
+    "aliases": {
+      "en": [],
+      "pt": [
+        "egipto"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I am located in the northeast of Africa.",
+        "The Nile River flows through me.",
+        "My most famous pyramids are in Giza.",
+        "My capital is Cairo.",
+        "I was ruled by pharaohs in ancient times.",
+        "My official language is Arabic.",
+        "The Suez Canal is in my territory.",
+        "A huge statue with a lion's body and a human head guards my sands.",
+        "Most of my land is desert.",
+        "My ancient people wrote with hieroglyphs.",
+        "Mummies are among my best-known treasures.",
+        "Tutankhamun's tomb was discovered here in 1922.",
+        "Cleopatra was one of my queens.",
+        "I have coasts on the Mediterranean Sea and the Red Sea.",
+        "One of my cities was founded by Alexander the Great and bears his name.",
+        "More than 100 million people live in me.",
+        "A small part of me, the Sinai Peninsula, lies in Asia.",
+        "My flag is red, white and black, with a golden eagle.",
+        "Papyrus was used for writing here thousands of years ago.",
+        "The Valley of the Kings is one of my top attractions."
+      ],
+      "pt": [
+        "Fico no nordeste da África.",
+        "O rio Nilo me atravessa.",
+        "Minhas pirâmides mais famosas ficam em Gizé.",
+        "Minha capital é o Cairo.",
+        "Fui governado por faraós na Antiguidade.",
+        "Minha língua oficial é o árabe.",
+        "O Canal de Suez fica no meu território.",
+        "Uma enorme estátua com corpo de leão e cabeça humana guarda minhas areias.",
+        "A maior parte do meu território é deserto.",
+        "Meu povo antigo escrevia com hieróglifos.",
+        "As múmias estão entre meus tesouros mais conhecidos.",
+        "O túmulo de Tutancâmon foi descoberto aqui em 1922.",
+        "Cleópatra foi uma das minhas rainhas.",
+        "Tenho litoral no Mar Mediterrâneo e no Mar Vermelho.",
+        "Uma das minhas cidades foi fundada por Alexandre, o Grande, e leva o nome dele.",
+        "Mais de 100 milhões de pessoas vivem em mim.",
+        "Uma pequena parte de mim, a Península do Sinai, fica na Ásia.",
+        "Minha bandeira é vermelha, branca e preta, com uma águia dourada.",
+        "O papiro era usado para escrever aqui há milhares de anos.",
+        "O Vale dos Reis é uma das minhas principais atrações."
+      ]
+    }
+  },
+  {
+    "id": "place-australia",
+    "category": "place",
+    "answer": {
+      "en": "Australia",
+      "pt": "Austrália"
+    },
+    "aliases": {
+      "en": [],
+      "pt": [
+        "australia"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I am both a country and a continent.",
+        "My capital is Canberra.",
+        "Kangaroos and koalas live in me.",
+        "My most famous opera house has a roof shaped like sails.",
+        "The largest coral reef system in the world lies off my coast.",
+        "A giant red rock called Uluru stands in my center.",
+        "I am entirely in the Southern Hemisphere.",
+        "English is my main language.",
+        "My currency is a dollar.",
+        "My flag shows the Southern Cross constellation.",
+        "I have six states.",
+        "My vast, dry interior is known as the Outback.",
+        "Aboriginal peoples have lived here for tens of thousands of years.",
+        "The island of Tasmania is part of me.",
+        "My largest city, Sydney, is not my capital.",
+        "The boomerang is one of my symbols.",
+        "I hosted the Summer Olympic Games in 1956 and 2000.",
+        "The platypus, a mammal that lays eggs, lives in me.",
+        "Christmas here is celebrated in summer.",
+        "I am the sixth-largest country in the world by area."
+      ],
+      "pt": [
+        "Sou um país e também um continente.",
+        "Minha capital é Camberra.",
+        "Cangurus e coalas vivem em mim.",
+        "Minha casa de ópera mais famosa tem um telhado em forma de velas.",
+        "O maior sistema de recifes de coral do mundo fica no meu litoral.",
+        "Uma gigantesca rocha vermelha chamada Uluru fica no meu centro.",
+        "Fico inteiramente no Hemisfério Sul.",
+        "O inglês é minha língua principal.",
+        "Minha moeda é um dólar.",
+        "Minha bandeira mostra a constelação do Cruzeiro do Sul.",
+        "Tenho seis estados.",
+        "Meu interior vasto e seco é conhecido como Outback.",
+        "Povos aborígenes vivem aqui há dezenas de milhares de anos.",
+        "A ilha da Tasmânia faz parte de mim.",
+        "Minha maior cidade, Sydney, não é minha capital.",
+        "O bumerangue é um dos meus símbolos.",
+        "Sediei os Jogos Olímpicos de Verão em 1956 e 2000.",
+        "O ornitorrinco, um mamífero que põe ovos, vive em mim.",
+        "Aqui o Natal é comemorado no verão.",
+        "Sou o sexto maior país do mundo em área."
+      ]
+    }
+  },
+  {
+    "id": "place-paris",
+    "category": "place",
+    "answer": {
+      "en": "Paris",
+      "pt": "Paris"
+    },
+    "aliases": {
+      "en": [],
+      "pt": []
+    },
+    "tips": {
+      "en": [
+        "I am the capital of France.",
+        "The Seine River flows through me.",
+        "I am known as the City of Light.",
+        "The Louvre Museum is here.",
+        "The Mona Lisa lives in me.",
+        "A famous triumphal arch stands at the end of my grandest avenue.",
+        "I hosted the Summer Olympic Games in 1900, 1924 and 2024.",
+        "My metro opened in 1900.",
+        "I am divided into 20 districts arranged in a spiral.",
+        "A white basilica crowns my hill of Montmartre.",
+        "I am considered a world capital of fashion.",
+        "My most famous monument is an iron structure built in 1889.",
+        "My Gothic cathedral suffered a major fire in 2019.",
+        "The storming of the Bastille happened here in 1789.",
+        "A famous tennis tournament is played on my clay courts every year.",
+        "The Tour de France traditionally finishes here.",
+        "Beneath my streets there are catacombs holding millions of bones.",
+        "A cabaret with a red windmill on its roof is one of my attractions.",
+        "I am one of the most visited cities in the world.",
+        "My sidewalk cafés and croissants are famous."
+      ],
+      "pt": [
+        "Sou a capital da França.",
+        "O rio Sena me atravessa.",
+        "Sou conhecida como a Cidade Luz.",
+        "O Museu do Louvre fica aqui.",
+        "A Mona Lisa mora em mim.",
+        "Um famoso arco do triunfo fica no fim da minha avenida mais grandiosa.",
+        "Sediei os Jogos Olímpicos de Verão em 1900, 1924 e 2024.",
+        "Meu metrô foi inaugurado em 1900.",
+        "Sou dividida em 20 distritos dispostos em espiral.",
+        "Uma basílica branca coroa minha colina de Montmartre.",
+        "Sou considerada uma capital mundial da moda.",
+        "Meu monumento mais famoso é uma estrutura de ferro construída em 1889.",
+        "Minha catedral gótica sofreu um grande incêndio em 2019.",
+        "A tomada da Bastilha aconteceu aqui em 1789.",
+        "Um famoso torneio de tênis é disputado todo ano nas minhas quadras de saibro.",
+        "O Tour de France tradicionalmente termina aqui.",
+        "Sob minhas ruas há catacumbas com milhões de ossos.",
+        "Um cabaré com um moinho vermelho no telhado é uma das minhas atrações.",
+        "Sou uma das cidades mais visitadas do mundo.",
+        "Meus cafés de calçada e meus croissants são famosos."
+      ]
+    }
+  },
+  {
+    "id": "place-new-york",
+    "category": "place",
+    "answer": {
+      "en": "New York",
+      "pt": "Nova York"
+    },
+    "aliases": {
+      "en": [
+        "new york city",
+        "nyc",
+        "ny"
+      ],
+      "pt": [
+        "nova iorque",
+        "new york",
+        "nyc",
+        "ny"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I am the most populous city in the United States.",
+        "My nickname is the Big Apple.",
+        "I am made up of five boroughs.",
+        "A giant green statue holding a torch welcomes visitors to my harbor.",
+        "I have a huge rectangular park in my center.",
+        "Times Square is one of my busiest spots.",
+        "My Broadway theaters are famous for their musicals.",
+        "Wall Street is here.",
+        "The Empire State Building is one of my skyscrapers.",
+        "Dutch settlers founded me in the 17th century.",
+        "The headquarters of the United Nations is here.",
+        "My taxis are traditionally yellow.",
+        "My subway runs 24 hours a day.",
+        "A famous suspension bridge connects Manhattan to Brooklyn.",
+        "I am known as the city that never sleeps.",
+        "The Hudson River runs along my west side.",
+        "A ball drops here at midnight every New Year's Eve.",
+        "I am not the capital of my state, although it shares my name.",
+        "Millions of immigrants arrived through Ellis Island, in my harbor.",
+        "One of the world's most famous marathons is run here every November."
+      ],
+      "pt": [
+        "Sou a cidade mais populosa dos Estados Unidos.",
+        "Meu apelido é a Grande Maçã.",
+        "Sou formada por cinco distritos.",
+        "Uma gigantesca estátua verde segurando uma tocha recebe os visitantes no meu porto.",
+        "Tenho um enorme parque retangular no meu centro.",
+        "A Times Square é um dos meus pontos mais movimentados.",
+        "Meus teatros da Broadway são famosos pelos musicais.",
+        "Wall Street fica aqui.",
+        "O Empire State Building é um dos meus arranha-céus.",
+        "Colonos holandeses me fundaram no século XVII.",
+        "A sede das Nações Unidas fica aqui.",
+        "Meus táxis são tradicionalmente amarelos.",
+        "Meu metrô funciona 24 horas por dia.",
+        "Uma famosa ponte suspensa liga Manhattan ao Brooklyn.",
+        "Sou conhecida como a cidade que nunca dorme.",
+        "O rio Hudson corre pelo meu lado oeste.",
+        "Uma bola desce aqui à meia-noite em toda virada de ano.",
+        "Não sou a capital do meu estado, embora ele tenha o mesmo nome que eu.",
+        "Milhões de imigrantes chegaram pela Ilha Ellis, no meu porto.",
+        "Uma das maratonas mais famosas do mundo é disputada aqui todo mês de novembro."
+      ]
+    }
+  },
+  {
+    "id": "place-rio-de-janeiro",
+    "category": "place",
+    "answer": {
+      "en": "Rio de Janeiro",
+      "pt": "Rio de Janeiro"
+    },
+    "aliases": {
+      "en": [
+        "rio"
+      ],
+      "pt": [
+        "rio",
+        "rj"
+      ]
+    },
+    "tips": {
+      "en": [
+        "A giant statue of Christ with open arms watches over me.",
+        "A cable car takes visitors up Sugarloaf Mountain.",
+        "Copacabana is one of my beaches.",
+        "My samba schools parade in the Sambadrome during Carnival.",
+        "I was the capital of Brazil until 1960.",
+        "I hosted the Summer Olympic Games in 2016.",
+        "The Maracanã stadium is here.",
+        "I am nicknamed the Marvelous City.",
+        "I am in the Southeast region of Brazil.",
+        "I lie on the shores of Guanabara Bay.",
+        "I was founded in 1565.",
+        "My name mentions the first month of the year.",
+        "A world-famous song is about a girl from my Ipanema neighborhood.",
+        "Bossa nova was born here.",
+        "I have one of the largest urban forests in the world, Tijuca.",
+        "The Portuguese royal court settled here in 1808.",
+        "I am the second most populous city in Brazil.",
+        "Millions of people watch fireworks on my beach every New Year's Eve.",
+        "My Lapa Arches are a former aqueduct.",
+        "My beachfront sidewalks have a famous black-and-white wave pattern."
+      ],
+      "pt": [
+        "Uma gigantesca estátua de Cristo de braços abertos me observa do alto.",
+        "Um bondinho leva os visitantes ao alto do Pão de Açúcar.",
+        "Copacabana é uma das minhas praias.",
+        "Minhas escolas de samba desfilam no Sambódromo durante o Carnaval.",
+        "Fui a capital do Brasil até 1960.",
+        "Sediei os Jogos Olímpicos de Verão em 2016.",
+        "O estádio do Maracanã fica aqui.",
+        "Meu apelido é Cidade Maravilhosa.",
+        "Fico na região Sudeste do Brasil.",
+        "Fico às margens da Baía de Guanabara.",
+        "Fui fundada em 1565.",
+        "Meu nome menciona o primeiro mês do ano.",
+        "Uma canção famosa no mundo todo fala de uma garota do meu bairro de Ipanema.",
+        "A bossa nova nasceu aqui.",
+        "Tenho uma das maiores florestas urbanas do mundo, a da Tijuca.",
+        "A corte real portuguesa se instalou aqui em 1808.",
+        "Sou a segunda cidade mais populosa do Brasil.",
+        "Milhões de pessoas assistem aos fogos na minha praia em toda virada de ano.",
+        "Meus Arcos da Lapa são um antigo aqueduto.",
+        "Meus calçadões à beira-mar têm um famoso desenho de ondas em preto e branco."
+      ]
+    }
+  },
+  {
+    "id": "place-rome",
+    "category": "place",
+    "answer": {
+      "en": "Rome",
+      "pt": "Roma"
+    },
+    "aliases": {
+      "en": [
+        "roma"
+      ],
+      "pt": [
+        "rome"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I am the capital of Italy.",
+        "The Colosseum is here.",
+        "I am known as the Eternal City.",
+        "I was built on seven hills.",
+        "The Tiber River flows through me.",
+        "There is an entire independent country inside me.",
+        "Visitors throw coins into one of my fountains hoping to return.",
+        "Legend says I was founded by twin brothers raised by a she-wolf.",
+        "I was the capital of one of the greatest empires of antiquity.",
+        "My Pantheon has a dome with an opening at the top.",
+        "A famous saying claims that all roads lead to me.",
+        "Another saying reminds people that I was not built in a day.",
+        "I hosted the Summer Olympic Games in 1960.",
+        "My Italian name, spelled backwards, is the Latin word for \"love\".",
+        "Gladiators once fought in my great arena.",
+        "Latin was the language of my ancient inhabitants.",
+        "According to tradition, I was founded in 753 BC.",
+        "The Pope lives within my urban area.",
+        "A famous staircase links my Piazza di Spagna to a church above.",
+        "Julius Caesar was assassinated here."
+      ],
+      "pt": [
+        "Sou a capital da Itália.",
+        "O Coliseu fica aqui.",
+        "Sou conhecida como a Cidade Eterna.",
+        "Fui construída sobre sete colinas.",
+        "O rio Tibre me atravessa.",
+        "Existe um país independente inteiro dentro de mim.",
+        "Os visitantes jogam moedas em uma das minhas fontes na esperança de voltar.",
+        "Diz a lenda que fui fundada por irmãos gêmeos criados por uma loba.",
+        "Fui a capital de um dos maiores impérios da Antiguidade.",
+        "Meu Panteão tem uma cúpula com uma abertura no topo.",
+        "Um ditado famoso diz que todos os caminhos levam a mim.",
+        "Outro ditado lembra que não fui feita em um dia.",
+        "Sediei os Jogos Olímpicos de Verão em 1960.",
+        "Meu nome escrito de trás para frente forma a palavra \"amor\".",
+        "Gladiadores já lutaram na minha grande arena.",
+        "O latim era a língua dos meus antigos habitantes.",
+        "Segundo a tradição, fui fundada em 753 a.C.",
+        "O Papa mora dentro da minha área urbana.",
+        "Uma famosa escadaria liga minha Piazza di Spagna a uma igreja no alto.",
+        "Júlio César foi assassinado aqui."
+      ]
+    }
+  },
+  {
+    "id": "place-eiffel-tower",
+    "category": "place",
+    "answer": {
+      "en": "Eiffel Tower",
+      "pt": "Torre Eiffel"
+    },
+    "aliases": {
+      "en": [
+        "the eiffel tower",
+        "tour eiffel"
+      ],
+      "pt": [
+        "a torre eiffel",
+        "tour eiffel"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I am made of iron.",
+        "I was completed in 1889.",
+        "I stand in Paris.",
+        "I am about 330 meters tall.",
+        "I was built for a World's Fair.",
+        "I am named after the engineer whose company built me.",
+        "I was the tallest structure in the world until 1930.",
+        "My construction marked the centenary of the French Revolution.",
+        "I was supposed to be dismantled after 20 years.",
+        "I have three levels open to visitors.",
+        "At night, I sparkle for a few minutes at the start of every hour.",
+        "I am repainted about every seven years.",
+        "I am held together by about 2.5 million rivets.",
+        "I am nicknamed the Iron Lady.",
+        "My usefulness as a radio antenna helped save me from demolition.",
+        "It took a little over two years to build me.",
+        "Many artists protested against me while I was being built.",
+        "I stand beside the Seine River.",
+        "I grow a few centimeters taller on hot summer days.",
+        "I am the best-known symbol of France."
+      ],
+      "pt": [
+        "Sou feita de ferro.",
+        "Fui concluída em 1889.",
+        "Fico em Paris.",
+        "Tenho cerca de 330 metros de altura.",
+        "Fui construída para uma Exposição Universal.",
+        "Levo o nome do engenheiro cuja empresa me construiu.",
+        "Fui a estrutura mais alta do mundo até 1930.",
+        "Minha construção marcou o centenário da Revolução Francesa.",
+        "Eu deveria ter sido desmontada depois de 20 anos.",
+        "Tenho três andares abertos aos visitantes.",
+        "À noite, eu cintilo por alguns minutos no início de cada hora.",
+        "Sou repintada mais ou menos a cada sete anos.",
+        "Sou unida por cerca de 2,5 milhões de rebites.",
+        "Meu apelido é Dama de Ferro.",
+        "Minha utilidade como antena de rádio ajudou a me salvar da demolição.",
+        "Levei pouco mais de dois anos para ser construída.",
+        "Muitos artistas protestaram contra mim enquanto eu era construída.",
+        "Fico ao lado do rio Sena.",
+        "Fico alguns centímetros mais alta nos dias quentes de verão.",
+        "Sou o símbolo mais conhecido da França."
+      ]
+    }
+  },
+  {
+    "id": "place-great-wall-of-china",
+    "category": "place",
+    "answer": {
+      "en": "Great Wall of China",
+      "pt": "Grande Muralha da China"
+    },
+    "aliases": {
+      "en": [
+        "great wall",
+        "the great wall",
+        "the great wall of china"
+      ],
+      "pt": [
+        "muralha da china",
+        "grande muralha",
+        "a grande muralha da china",
+        "a muralha da china"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I am thousands of kilometers long.",
+        "I was built over many centuries.",
+        "I was built to protect against invasions from the north.",
+        "My best-preserved sections date from the Ming dynasty.",
+        "Contrary to the myth, I cannot be seen with the naked eye from the Moon.",
+        "I have been a UNESCO World Heritage Site since 1987.",
+        "In 2007, I was chosen as one of the New Seven Wonders of the World.",
+        "Some of my most visited sections are near Beijing.",
+        "I am made of stone, brick, rammed earth and wood.",
+        "I have thousands of watchtowers.",
+        "The first emperor of my country ordered older fortifications to be joined together.",
+        "I cross mountains, deserts and plains.",
+        "I am located in Asia.",
+        "Soldiers once used smoke signals to send messages along me.",
+        "A marathon is run on top of me every year.",
+        "I am the longest structure ever built by humans.",
+        "Sticky rice was used in the mortar of some of my sections.",
+        "Millions of tourists walk on me every year.",
+        "I am not one continuous line, but several sections built in different eras.",
+        "Millions of workers took part in my construction."
+      ],
+      "pt": [
+        "Tenho milhares de quilômetros de extensão.",
+        "Fui construída ao longo de muitos séculos.",
+        "Fui construída para proteger contra invasões vindas do norte.",
+        "Meus trechos mais bem conservados são da dinastia Ming.",
+        "Ao contrário do mito, não posso ser vista a olho nu da Lua.",
+        "Sou Patrimônio Mundial da UNESCO desde 1987.",
+        "Em 2007, fui escolhida como uma das Novas Sete Maravilhas do Mundo.",
+        "Alguns dos meus trechos mais visitados ficam perto de Pequim.",
+        "Sou feita de pedra, tijolo, terra batida e madeira.",
+        "Tenho milhares de torres de vigia.",
+        "O primeiro imperador do meu país mandou unir fortificações mais antigas.",
+        "Atravesso montanhas, desertos e planícies.",
+        "Fico na Ásia.",
+        "Soldados usavam sinais de fumaça para enviar mensagens ao longo de mim.",
+        "Uma maratona é disputada em cima de mim todos os anos.",
+        "Sou a estrutura mais longa já construída por seres humanos.",
+        "Arroz glutinoso foi usado na argamassa de alguns dos meus trechos.",
+        "Milhões de turistas caminham sobre mim todos os anos.",
+        "Não sou uma linha contínua, e sim vários trechos construídos em épocas diferentes.",
+        "Milhões de trabalhadores participaram da minha construção."
+      ]
+    }
+  },
+  {
+    "id": "place-machu-picchu",
+    "category": "place",
+    "answer": {
+      "en": "Machu Picchu",
+      "pt": "Machu Picchu"
+    },
+    "aliases": {
+      "en": [
+        "machupicchu",
+        "machu pichu"
+      ],
+      "pt": [
+        "machupicchu",
+        "machu pichu"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I am located in Peru.",
+        "I sit high in the Andes Mountains.",
+        "I was built by the Incas.",
+        "I was built in the 15th century.",
+        "I became known to the world in 1911, thanks to explorer Hiram Bingham.",
+        "I am about 2,400 meters above sea level.",
+        "I have been a UNESCO World Heritage Site since 1983.",
+        "In 2007, I was chosen as one of the New Seven Wonders of the World.",
+        "The Urubamba River runs far below me.",
+        "The nearest big city to me is Cusco.",
+        "My stones were fitted together without mortar.",
+        "I have a Temple of the Sun.",
+        "Llamas roam freely among my ruins.",
+        "The Spanish conquerors never found me.",
+        "My name means \"old mountain\" in Quechua.",
+        "I am often called a lost city.",
+        "Many visitors reach me after a hike of several days along an ancient trail.",
+        "The town at my foot is called Aguas Calientes.",
+        "I have agricultural terraces carved into the slopes.",
+        "I am in South America."
+      ],
+      "pt": [
+        "Fico no Peru.",
+        "Fico no alto da Cordilheira dos Andes.",
+        "Fui construída pelos incas.",
+        "Fui construída no século XV.",
+        "Fiquei conhecida mundialmente em 1911, graças ao explorador Hiram Bingham.",
+        "Fico a cerca de 2.400 metros acima do nível do mar.",
+        "Sou Patrimônio Mundial da UNESCO desde 1983.",
+        "Em 2007, fui escolhida como uma das Novas Sete Maravilhas do Mundo.",
+        "O rio Urubamba corre lá embaixo, aos meus pés.",
+        "A cidade grande mais próxima de mim é Cusco.",
+        "Minhas pedras foram encaixadas sem argamassa.",
+        "Tenho um Templo do Sol.",
+        "Lhamas andam livremente entre minhas ruínas.",
+        "Os conquistadores espanhóis nunca me encontraram.",
+        "Meu nome significa \"montanha velha\" em quíchua.",
+        "Sou frequentemente chamada de cidade perdida.",
+        "Muitos visitantes chegam a mim depois de dias de caminhada por uma trilha antiga.",
+        "O povoado aos meus pés se chama Aguas Calientes.",
+        "Tenho terraços agrícolas escavados nas encostas.",
+        "Fico na América do Sul."
+      ]
+    }
+  },
+  {
+    "id": "place-grand-canyon",
+    "category": "place",
+    "answer": {
+      "en": "Grand Canyon",
+      "pt": "Grand Canyon"
+    },
+    "aliases": {
+      "en": [
+        "the grand canyon"
+      ],
+      "pt": [
+        "grande cânion",
+        "grande canyon",
+        "grand cânion",
+        "o grand canyon"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I am located in the state of Arizona.",
+        "The Colorado River carved me over millions of years.",
+        "I am about 446 kilometers long.",
+        "In some places I am more than 1.8 kilometers deep.",
+        "I became a national park in 1919.",
+        "I have been a UNESCO World Heritage Site since 1979.",
+        "The oldest rocks at my bottom are nearly two billion years old.",
+        "Visitors choose between my South Rim and my North Rim.",
+        "President Theodore Roosevelt worked to protect me.",
+        "Native American peoples have lived in and around me for thousands of years.",
+        "A glass walkway shaped like a horseshoe lets visitors look straight down into me.",
+        "Tourists can ride mules down to my bottom.",
+        "Millions of people visit me every year.",
+        "My walls show colorful layers of red and orange rock.",
+        "Rafting on the river that runs through me is a popular adventure.",
+        "I am in the United States.",
+        "In some places I am almost 30 kilometers wide.",
+        "My northern side closes to visitors in winter because of snow.",
+        "I am considered one of the most impressive natural wonders of the world.",
+        "Many tourists come to me on day trips from Las Vegas."
+      ],
+      "pt": [
+        "Fico no estado do Arizona.",
+        "O rio Colorado me esculpiu ao longo de milhões de anos.",
+        "Tenho cerca de 446 quilômetros de comprimento.",
+        "Em alguns pontos tenho mais de 1,8 quilômetro de profundidade.",
+        "Tornei-me parque nacional em 1919.",
+        "Sou Patrimônio Mundial da UNESCO desde 1979.",
+        "As rochas mais antigas no meu fundo têm quase dois bilhões de anos.",
+        "Os visitantes escolhem entre minha Borda Sul e minha Borda Norte.",
+        "O presidente Theodore Roosevelt trabalhou para me proteger.",
+        "Povos indígenas norte-americanos vivem em mim e ao meu redor há milhares de anos.",
+        "Uma passarela de vidro em forma de ferradura permite olhar direto para dentro de mim.",
+        "Os turistas podem descer até o meu fundo montados em mulas.",
+        "Milhões de pessoas me visitam todos os anos.",
+        "Minhas paredes mostram camadas coloridas de rocha vermelha e alaranjada.",
+        "Fazer rafting no rio que me atravessa é uma aventura popular.",
+        "Fico nos Estados Unidos.",
+        "Em alguns pontos tenho quase 30 quilômetros de largura.",
+        "Meu lado norte fecha para visitantes no inverno por causa da neve.",
+        "Sou considerado uma das maravilhas naturais mais impressionantes do mundo.",
+        "Muitos turistas vêm me visitar em passeios de um dia saindo de Las Vegas."
+      ]
+    }
+  },
+  {
+    "id": "place-amazon-rainforest",
+    "category": "place",
+    "answer": {
+      "en": "Amazon Rainforest",
+      "pt": "Floresta Amazônica"
+    },
+    "aliases": {
+      "en": [
+        "amazon",
+        "the amazon",
+        "amazon jungle",
+        "amazon forest",
+        "amazonia",
+        "the amazon rainforest"
+      ],
+      "pt": [
+        "amazônia",
+        "amazonia",
+        "floresta amazonica",
+        "selva amazônica",
+        "a floresta amazônica",
+        "a amazônia"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I am the largest tropical jungle in the world.",
+        "I spread across nine countries and territories.",
+        "Most of me is in Brazil.",
+        "The river with the greatest volume of water in the world runs through me.",
+        "I am often called the \"lungs of the world\".",
+        "Jaguars, sloths and macaws live in me.",
+        "Pink river dolphins swim in my waters.",
+        "I am home to about one in ten of the known species on Earth.",
+        "Many Indigenous peoples live in me.",
+        "The city of Manaus lies in my heart.",
+        "Deforestation is my greatest threat.",
+        "I am hot and humid all year round.",
+        "I am located in South America.",
+        "I cover more than five million square kilometers.",
+        "My treetops are so dense that little sunlight reaches the ground.",
+        "Rubber extracted from my trees created great fortunes in the 19th century.",
+        "Giant water lilies float on my calm waters.",
+        "The Equator passes through me.",
+        "Anacondas and piranhas live in my rivers.",
+        "My name recalls the warrior women of Greek mythology."
+      ],
+      "pt": [
+        "Sou a maior selva tropical do mundo.",
+        "Eu me espalho por nove países e territórios.",
+        "A maior parte de mim fica no Brasil.",
+        "O rio com o maior volume de água do mundo me atravessa.",
+        "Sou frequentemente chamada de \"pulmão do mundo\".",
+        "Onças-pintadas, bichos-preguiça e araras vivem em mim.",
+        "Botos-cor-de-rosa nadam nas minhas águas.",
+        "Abrigo cerca de uma em cada dez espécies conhecidas da Terra.",
+        "Muitos povos indígenas vivem em mim.",
+        "A cidade de Manaus fica no meu coração.",
+        "O desmatamento é minha maior ameaça.",
+        "Sou quente e úmida o ano inteiro.",
+        "Fico na América do Sul.",
+        "Cubro mais de cinco milhões de quilômetros quadrados.",
+        "Minhas copas são tão densas que pouca luz do sol chega ao chão.",
+        "A borracha extraída das minhas árvores gerou grandes fortunas no século XIX.",
+        "Vitórias-régias gigantes flutuam nas minhas águas calmas.",
+        "A linha do Equador passa por mim.",
+        "Sucuris e piranhas vivem nos meus rios.",
+        "Meu nome lembra as mulheres guerreiras da mitologia grega."
+      ]
+    }
+  },
+  {
+    "id": "place-taj-mahal",
+    "category": "place",
+    "answer": {
+      "en": "Taj Mahal",
+      "pt": "Taj Mahal"
+    },
+    "aliases": {
+      "en": [
+        "the taj mahal",
+        "taj"
+      ],
+      "pt": [
+        "o taj mahal",
+        "taj"
+      ]
+    },
+    "tips": {
+      "en": [
+        "I am located in India.",
+        "I am in the city of Agra.",
+        "I am made of white marble.",
+        "An emperor had me built in memory of his favorite wife.",
+        "I am a mausoleum.",
+        "My construction began in 1632.",
+        "About 20,000 workers took part in my construction.",
+        "I stand on the bank of the Yamuna River.",
+        "I have been a UNESCO World Heritage Site since 1983.",
+        "In 2007, I was chosen as one of the New Seven Wonders of the World.",
+        "I have four minarets, one at each corner.",
+        "I am famous for my perfect symmetry.",
+        "I have a large central dome.",
+        "My color seems to change with the light of the day.",
+        "I was built during the Mughal Empire.",
+        "A long reflecting pool in my gardens mirrors my image.",
+        "The emperor who built me, Shah Jahan, is also buried here.",
+        "I am closed to tourists on Fridays.",
+        "I am considered one of the greatest symbols of love.",
+        "Semi-precious stones are inlaid in my walls."
+      ],
+      "pt": [
+        "Fico na Índia.",
+        "Fico na cidade de Agra.",
+        "Sou feito de mármore branco.",
+        "Um imperador mandou me construir em memória de sua esposa favorita.",
+        "Sou um mausoléu.",
+        "Minha construção começou em 1632.",
+        "Cerca de 20 mil trabalhadores participaram da minha construção.",
+        "Fico às margens do rio Yamuna.",
+        "Sou Patrimônio Mundial da UNESCO desde 1983.",
+        "Em 2007, fui escolhido como uma das Novas Sete Maravilhas do Mundo.",
+        "Tenho quatro minaretes, um em cada canto.",
+        "Sou famoso pela minha simetria perfeita.",
+        "Tenho uma grande cúpula central.",
+        "Minha cor parece mudar conforme a luz do dia.",
+        "Fui construído durante o Império Mogol.",
+        "Um longo espelho d'água nos meus jardins reflete minha imagem.",
+        "O imperador que me construiu, Shah Jahan, também está sepultado aqui.",
+        "Fico fechado para turistas às sextas-feiras.",
+        "Sou considerado um dos maiores símbolos do amor.",
+        "Pedras semipreciosas estão incrustadas nas minhas paredes."
+      ]
+    }
+  }
+]

@@ -1,0 +1,10 @@
+# Not needed to build the image (and node_modules must be installed inside it)
+**/node_modules
+**/dist
+**/.env
+.git
+.gitignore
+*.md
+render.yaml
+Dockerfile
+.dockerignore

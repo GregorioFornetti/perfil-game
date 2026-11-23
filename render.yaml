@@ -1,0 +1,33 @@
+# Render "Blueprint": describes the service so that Render can create it from this repository.
+# In Render: New > Blueprint > pick the repository. Render builds the Dockerfile and starts it.
+services:
+  - type: web
+    name: twenty-tips
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    # "free" sleeps after about 15 minutes without visitors (the next visit takes up to a minute,
+    # and games in progress are lost). A paid plan stays awake.
+    plan: free
+    # Closest Render region to Brazil; others: oregon, ohio, frankfurt, singapore.
+    region: virginia
+    # Games live in the memory of one process: keep a single instance.
+    numInstances: 1
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      # Render puts one proxy in front of the service; this lets the server see each visitor's
+      # own address (used to limit how many cards one visitor can generate per minute).
+      - key: TRUST_PROXY
+        value: "1"
+      # ---- optional: "Fill automatically" for own cards (see README) ----
+      # The key is a secret: Render asks for it when the Blueprint is created and it is not
+      # stored in this file. Leave it empty to keep the feature off.
+      - key: LLM_API_KEY
+        sync: false
+      - key: LLM_BASE_URL
+        value: https://api.groq.com/openai/v1
+      - key: LLM_MODEL
+        value: openai/gpt-oss-120b

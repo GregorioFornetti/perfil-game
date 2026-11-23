@@ -1,0 +1,35 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-display: 'Trebuchet MS', 'Segoe UI', system-ui, sans-serif;
+}
+
+body {
+  @apply min-h-screen bg-slate-900 text-slate-100 antialiased;
+  background-image: radial-gradient(circle at 20% 0%, rgb(67 56 202 / 0.35), transparent 45%),
+    radial-gradient(circle at 90% 10%, rgb(217 119 6 / 0.18), transparent 40%);
+  background-attachment: fixed;
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex cursor-pointer items-center justify-center gap-2 rounded-lg px-4 py-2 font-semibold transition
+      focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-300 disabled:cursor-not-allowed disabled:opacity-40;
+  }
+  .btn-primary {
+    @apply bg-amber-400 text-slate-900 hover:bg-amber-300;
+  }
+  .btn-secondary {
+    @apply bg-slate-700 text-slate-100 hover:bg-slate-600;
+  }
+  .btn-ghost {
+    @apply text-slate-300 hover:bg-slate-800 hover:text-white;
+  }
+  .field {
+    @apply w-full rounded-lg border border-slate-600 bg-slate-800 px-3 py-2 text-slate-100 placeholder-slate-500
+      focus:border-amber-400 focus:outline-none;
+  }
+  .panel {
+    @apply rounded-2xl border border-slate-700/70 bg-slate-800/70 p-5 shadow-xl backdrop-blur;
+  }
+}
