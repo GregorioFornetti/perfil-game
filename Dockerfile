@@ -6,7 +6,7 @@
 # On Render the port comes from the PORT variable Render sets (see render.yaml).
 
 # ---- 1. build the web app (frontend/dist) -------------------------------------------
-FROM node:22-alpine AS frontend-build
+FROM node:22-slim AS frontend-build
 WORKDIR /app/frontend
 COPY frontend/package.json frontend/package-lock.json ./
 RUN npm ci
